@@ -1,0 +1,2594 @@
+[
+  {
+    "instruction": "What is the length in meters of Abdullah Bridge in Srinagar?",
+    "input": "",
+    "output": "390 metres",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which two villages in Mauritius were separate villages until they became a single administrative unit in 1963?",
+    "input": "",
+    "output": "Vacoas and Phoenix",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of Chivatá, Boyacá, Colombia, founded?",
+    "input": "",
+    "output": "1556",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which specific dialect did Emma, Lady Hamilton possess that George Romney and the Bishop of Derry \"longed to be near\"?",
+    "input": "",
+    "output": "Dorick",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was Janice Burgess's alma mater?",
+    "input": "",
+    "output": "Brandeis University",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what country is Ribes colandina found?",
+    "input": "",
+    "output": "Perú",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the shear modulus of selenium in gigapascals?",
+    "input": "",
+    "output": "3.7",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Between which years was Elizabeth Esteve-Coll Vice-Chancellor of the University of East Anglia?",
+    "input": "",
+    "output": "1995-1997",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many of his early oil portraits did English sculptor Robert Adams exhibit in the Northampton Public Library in April 1946?",
+    "input": "",
+    "output": "14",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was Yangyi Yu's score in the 2020 Tata Steel Masters?",
+    "input": "",
+    "output": "4.5/13",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the god with the Hawaiian name Kamaʻehuakanaloa?",
+    "input": "",
+    "output": "Kanaloa",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the title in French of Dame Margot's debate song (jeu parti) in which she debates Dame Maroie?",
+    "input": "",
+    "output": "\"Je vous pri, dame Maroie\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What player from Aston Villa had the most yellow cards in the 2021-22 Premier League season?",
+    "input": "",
+    "output": "Tyrone Mings",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who did the boxer Jackson Asiku lose to at the Summer Olympics in Sydney, Australia in 2000?",
+    "input": "",
+    "output": "Arlan Lerio",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did Vladas Mironas, who was the 14th Prime Minister of Lithuania, take office?",
+    "input": "",
+    "output": "March 24, 1938",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of track 8 on the album The Awesome Album that appeared on the Parks and Recreation TV series?",
+    "input": "",
+    "output": "Menace Ball",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "From what year to what year did the Ethiopian politician Billene Seyoum Woldeyes study International Relations at the University of British Columbia, Vancouver?",
+    "input": "",
+    "output": "2004-2008",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month, day, and year was the Köln Frankfurter Straße station opened?",
+    "input": "",
+    "output": "13 June 2004",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which bridge was built in 1957 across the River Jhelum to connect the Maulana Azad Road to the Civil Secretariat in Srinagar?",
+    "input": "",
+    "output": "Budshah Bridge, locally also known as Budshah Kadal.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Dina Nath Walli (an Indian watercolor artist and poet from Srinagar city) return to Srinagar, where he concentrated on landscape painting in watercolors?",
+    "input": "",
+    "output": "1936",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which sculptor designed the Order of the Liberator General San Martín?",
+    "input": "",
+    "output": "Ángel Eusebio Ibarra García",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "According to \"A Survey of London; Reprinted From the Text of 1603,\" the first constables of the Tower of London (Othowerus, Acolinillus, Otto, and Geoffrey de Mandeville) occupied land in East Smithfield, near the Tower, and turned it into what?",
+    "input": "",
+    "output": "A vineyard.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Michael John Creutz earn his Ph.D. in physics from Stanford University?",
+    "input": "",
+    "output": "1970",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day and month of 1956 was a letter sent to Dr. Rajendra Prasad, President of the Indian Union, by A.C. Bhaktivedanta, also known as A.C. Bhaktivedanta Swami Prabhupada?",
+    "input": "",
+    "output": "21 November",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year were Google Play services dropped for Android Honeycomb?",
+    "input": "",
+    "output": "January 2017.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What engraver did Thomas Ryder apprentice under?",
+    "input": "",
+    "output": "James Basire.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is Daryl Dixon's blood type on The Walking Dead (TV series)?",
+    "input": "",
+    "output": "O- blood type.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the tenth-ranked song on the 2021 Rolling Stone's \"The 500 Greatest Songs of All Time\" list?",
+    "input": "",
+    "output": "\"Hey Ya!\" by Outkast",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was John Williams inducted into the Classical Music Hall of Fame?",
+    "input": "",
+    "output": "2004.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which episode from Season 1 of Happy Valley does Tommy tell Ryan that he is his father?",
+    "input": "",
+    "output": "4",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many sons did Nathan Mendelsohn and his wife, Helen, have?",
+    "input": "",
+    "output": "Two",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Season 2 of Dexter, who catches Dexter while trying to dispose of his mother's killer's remains?",
+    "input": "",
+    "output": "Doakes",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of Episode 1 of Season 4 of Friends, who was Ross dating?",
+    "input": "",
+    "output": "Bonnie",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What element has the electron configuration [Ar]4s2 3d10 4p1?",
+    "input": "",
+    "output": "Gallium",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month, day, and year was Briana Scurry elected to the National Soccer Hall of Fame?",
+    "input": "",
+    "output": "August 3rd, 2017",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Tara Chand (a politician and a Dalit leader from Jammu and Kashmir) removed from the Democratic Azad Party after allegations of 'anti-party' activities?",
+    "input": "",
+    "output": "22 December 2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year did Giulio Carlo Argan, the Italian art historian, publish a manual of art for high schools?",
+    "input": "",
+    "output": "1938",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the Yale Bright Star Catalogue's direct predecessor, published in 1908?",
+    "input": "",
+    "output": "Harvard Revised Photometry Catalogue",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Parastou Forouhar (an Iranian artist) receive the \"Sophie von La Roche\" Award?",
+    "input": "",
+    "output": "2012",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the memory clock speed in MHz for the GeForce4 MX420 (2002)?",
+    "input": "",
+    "output": "166",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the full name of the first Black woman to become president of an NFL (National Football League) team?",
+    "input": "",
+    "output": "Sandra Douglass Morgan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the square footage of the gallery space of the State Hermitage Museum?",
+    "input": "",
+    "output": "719,480 square feet",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the Andalusi poet Mansa Musa met on his return journey from his pilgrimage to Mecca between 1324 and 1325?",
+    "input": "",
+    "output": "Abu Ishaq al-Sahili.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What key signature was \"Sing Out\" by Ron Kenoly recorded in?",
+    "input": "",
+    "output": "A Major",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of El Retiro, Antioquia, Colombia, founded?",
+    "input": "",
+    "output": "1790",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Fire Emblem: Three Houses, which character tells Leonie about a holy weapon hidden at Lake Teutates that doesn't require a crest to wield?",
+    "input": "",
+    "output": "Linhardt",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Shohidul Islam make his international debut for the Bangladesh cricket team?",
+    "input": "",
+    "output": "2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many maxi challenges did Sharon Needles win in Season 4 of RPDR?",
+    "input": "",
+    "output": "4",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What GPU does the Lumia 550 have?",
+    "input": "",
+    "output": "Qualcomm Adreno 304.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the 2022 winner of \"Best Just Chatting Streamer\" at The Streamer Awards?",
+    "input": "",
+    "output": "Mizkif",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What four-letter word is spelled in magnets on the roof of The Play Family School House that was advertised in the Sears Wish Book for the 1980 holiday season?",
+    "input": "",
+    "output": "TREE",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of the 2004 ending date of the show, how many times did Lor McQuarrie wear heels in The Weekenders?",
+    "input": "",
+    "output": "3",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the book Cindy Sherman published in 2007?",
+    "input": "",
+    "output": "A Play of Selves",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which Illinois university did artist Herbert House graduate from?",
+    "input": "",
+    "output": "Illinois State University.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which date, month, and year did the manuscript \"Codex Arundel\" become a part of the British Library's project \"Turning the Pages,\" when it was digitized along with Codex Leicester and became available in the 2.0 format?",
+    "input": "",
+    "output": "30 January 2007",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What did Robert Southey state was the singular diagnosis for Horatio Lord Nelson's illness and subsequent evacuation during the San Juan expedition in 1780?",
+    "input": "",
+    "output": "Dysentery",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At which U.S. observatory was 66 Maja discovered?",
+    "input": "",
+    "output": "Harvard College Observatory",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many fight wins did the British-American kickboxer Andrew Tate have prior to retiring?",
+    "input": "",
+    "output": "76",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the counter strength value for the Fume Sword in Dark Souls II?",
+    "input": "",
+    "output": "120",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Hz, what was the sampling rate used for recording EEG signals from the six participants in the 2021 research paper titled \"EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function\" by Ziwu Ren et al.?",
+    "input": "",
+    "output": "500",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the abbreviated name of the launch vehicle along with its mission or flight number used for carrying the DS-EO satellite, launched from the Satish Dhawan Space Centre in India in 2022?",
+    "input": "",
+    "output": "PSLV-C53",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the first recipient of the Manohar Parrikar Yuva Scientist Award?",
+    "input": "",
+    "output": "Dr Mathavaraj S",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which day, month, and year did Admiral Charles Philip Snyder get married to Cornelia Lee Wolcott?",
+    "input": "",
+    "output": "10 July 1902",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the individual who won the Lord Lewis Prize in 2016?",
+    "input": "",
+    "output": "Poliakoff",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did John Ralph Ragazzini receive the Rufus Oldenburger Medal?",
+    "input": "",
+    "output": "1970",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the individual who won the RSC Supramolecular Chemistry Award in 2016?",
+    "input": "",
+    "output": "Ward",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did King Louis II's, also known as King Louis XIII of France, reign as King of Navarre end?",
+    "input": "",
+    "output": "20 October 1620",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the director of the Clayman Institute for Gender Research in 1994?",
+    "input": "",
+    "output": "Iris Litt",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the second woman to receive the Turing Award?",
+    "input": "",
+    "output": "Barbara Liskov",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of December 2019, how many notebooks had Morris Villarroel filled with lifelogging?",
+    "input": "",
+    "output": "307",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the person who spoke out against naming a new Imperial Lord Privy Seal, which put him in direct conflict with the regime's de facto prime minister, Émile Ollivier?",
+    "input": "",
+    "output": "Léon Gambetta",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the resolution of the Cat B15 Q in pixels?",
+    "input": "",
+    "output": "480 x 800",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the year and month when Jonathan Faull, the head of the EU's Commission of Home Affairs, complained about the United States' bilateral policy concerning PNR?",
+    "input": "",
+    "output": "February 2008",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At what age was former president P.W. Botha elected head of the National Party Youth?",
+    "input": "",
+    "output": "30",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the 2009 US Billboard 200 year-end chart, what position did Miranda Lambert's album \"Revolution\" place?",
+    "input": "",
+    "output": "170th",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did a \"line of control\" divide the Indian and Pakistani portions?",
+    "input": "",
+    "output": "1972",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which country is Anisotenes cacotechna found?",
+    "input": "",
+    "output": " New Guinea",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the population of Honda, a town and municipality in the Tolima department of Colombia, as of the 2018 census?",
+    "input": "",
+    "output": "24,693",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On June 24, 2018, how many more votes did the winning candidate get in total than Muharrem İnce?",
+    "input": "",
+    "output": "10,990,502",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Between which years was the \"Neptune and Triton\" sculpture carved?",
+    "input": "",
+    "output": "1622 and 1623",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the President of the World Federation of Engineering Organizations in 2002?",
+    "input": "",
+    "output": "José Medem",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How long, in minutes and seconds, is the song \"Empty\" by Bebe Rexha from the \"Better Mistakes\" album?",
+    "input": "",
+    "output": "2:28",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "A Tasmanian species of which plant genus was named after philanthropist Elisabeth Murdoch?",
+    "input": "",
+    "output": "Boronia",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the Briggs & Stratton Raptor III engine released?",
+    "input": "",
+    "output": "1995",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Where did Mohinder Amarnath score his first Test century?",
+    "input": "",
+    "output": "Perth at the WACA",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What song from \"Hamilton\" reflects this message: \"Amidst Eliza begging Hamilton to stay and Angelica moving to London with her new husband\"?",
+    "input": "",
+    "output": "\"Non-Stop\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who set the Guinness World Record by building the largest Nerf gun, measuring 3.81 meters (12 feet 6 inches), on October 15, 2021?",
+    "input": "",
+    "output": "Michael Pick",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At what university did Lorne Baird Warneke attend medical school?",
+    "input": "",
+    "output": "University of Alberta ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the U.S. President who attended the 66th birthday of Kenneth Stanley \"Boots\" Adams, former president of Phillips Petroleum Company?",
+    "input": "",
+    "output": "Eisenhower",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did NHK Hall, located in Shibuya Ward, Tokyo, start operation?",
+    "input": "",
+    "output": "June 20, 1973",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How was Jawaharlal Nehru addressed in the salutation of the letter sent by A.C.B., also known as A.C. Bhaktivedanta Swami Prabhupada, on August 4, 1958?",
+    "input": "",
+    "output": "My dear Pandit Ji",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what subject did photographer Kemka Ajoku attain a bachelor's degree in 2020?",
+    "input": "",
+    "output": "Mechanical Engineering",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What scholarship did Adil Hussain use to study at the Drama Studio London?",
+    "input": "",
+    "output": "Charles Wallace India Trust",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the only Spanish player who received a Player of the Month Award during the 2021-22 Premier League season?",
+    "input": "",
+    "output": "David de Gea",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Anil Biswas (an Indian communist politician) join the Krishnagar Government College, come under the influence of Marxist leaders like Harinarayan Adhikari and Dinesh Mazumdar, and also become an active member of the Students' Federation of India?",
+    "input": "",
+    "output": "1961",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first name of the South African politician who served as Minister of Higher Education and Training and Minister of Home Affairs under President Jacob Zuma and was Deputy Minister in the Presidency for Women, Youth, and Persons with Disabilities?",
+    "input": "",
+    "output": "Hlengiwe",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was the domain \"indianexpress.com\" registered?",
+    "input": "",
+    "output": "20th of May 2002",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the date, month, and year when Hall-Edwards also became the first to use X-rays in a surgical operation?",
+    "input": "",
+    "output": "14 February 1896",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was Raquel Meller's first husband?",
+    "input": "",
+    "output": "Gómez Carrillo",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What song is playing at the beginning of \"Full Leather Jacket\" of The Sopranos?",
+    "input": "",
+    "output": "\"Baker Street\" by Gerry Rafferty",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At what age did Enzo Ferrari (founder of Ferrari) decide to pursue racing?",
+    "input": "",
+    "output": "10",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which university did Vujica Lazović defend his master's degree in 1994?",
+    "input": "",
+    "output": "University of Belgrade",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Yasser Arafat (a Palestinian political leader) enroll in the University of King Fuad I?",
+    "input": "",
+    "output": "1944",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who among the people who proposed the three-stage system in an article titled \"Stone Age Cultures of South Africa\" was a civil engineer?",
+    "input": "",
+    "output": "Clarence van Riet Lowe",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the length of Mirza Hameedullah Beg's tenure as the Chief Justice of India in years and days?",
+    "input": "",
+    "output": "1 year and 24 days",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who served as the first Deputy Commissioner of the Pherzawl District, located in the southern part of Manipur, India?",
+    "input": "",
+    "output": "Shri A.Tombikanta Singh",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which newspaper said the following quote about John Lewis? \"Only former major civil rights leader who extended his fight for human rights and racial reconciliation to the halls of Congress.\"",
+    "input": "",
+    "output": "Atlanta Journal-Constitution",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the month, day, and year Anne Morgan was first styled Baroness Hunsdon?",
+    "input": "",
+    "output": "January 13 1559",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Name the plant taxonomist who identified all the plant specimens collected for the study in the article \"The local medicinal plant knowledge in Kashmir Western Himalaya: A way to foster ecological transition via community-centred health-seeking strategies\"?",
+    "input": "",
+    "output": "Dr Mushtaq Ahmad",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who preceded Eduardo Laurencena as President of the National Committee of the UCR?",
+    "input": "",
+    "output": "Gabriel Oddone",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which date, month, and year was the \"King Shaka International Airport\" name approved by the South African Geographical Names Council?",
+    "input": "",
+    "output": "14 January 2010",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the durability of the Puzzling Stone Sword from Dark Souls II?",
+    "input": "",
+    "output": "60",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the Sing Sing Correctional Facility accredited for the first time?",
+    "input": "",
+    "output": "1989",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Harry G. Drickamer win the Irving Langmuir Award?",
+    "input": "",
+    "output": "1974",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "To whom was the Oskar Kokoschka Prize awarded in 2018?",
+    "input": "",
+    "output": "Martha Jungwirth",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is known as the first rock star of the Middle East?",
+    "input": "",
+    "output": "Lydia Canaan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In 1999, who presented Susan Lucci with an Emmy?",
+    "input": "",
+    "output": "Shemar Moore",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the mathematician George Andrews elected a Fellow of the American Academy of Arts and Sciences?",
+    "input": "",
+    "output": "1997",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first line in Mariah Carey's \"Hero\" song?",
+    "input": "",
+    "output": "There's a hero",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many children did gay rights activist Morris Kight have?",
+    "input": "",
+    "output": "Two.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the individual who won the Faraday Lectureship Prize, previously known as the Faraday Lectureship, in 1970?",
+    "input": "",
+    "output": "Herzberg",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which month and year, during a visit to Washington, D.C., did Golda Meir agree with Henry Kissinger's peace proposal based on \"security versus sovereignty\"?",
+    "input": "",
+    "output": "February 1973",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Before the New 52, who murdered the supervillain Monsieur Mallah?",
+    "input": "",
+    "output": "Gorilla Grodd",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many busts of Pope Paul V did Gian Lorenzo Bernini make?",
+    "input": "",
+    "output": "2",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What line does Isshin the Sword Saint say after defeating Sekiro in the 2019 video game \"Sekiro: Shadows Die Twice\"?",
+    "input": "",
+    "output": "Hesitation is defeat",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the Logic Theorist computer program written?",
+    "input": "",
+    "output": "1956.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was the NVS-01 satellite launched from the Satish Dhawan Space Centre in India?",
+    "input": "",
+    "output": "May 29, 2023",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Give the name of the Kashmiri dish in which mutton intestines are flavored with a spice mixture containing dried fenugreek (methi) leaves.",
+    "input": "",
+    "output": "Methi Maaz.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month, day, and year was Lori Vallow Daybell sentenced to prison?",
+    "input": "",
+    "output": "July 31, 2023.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of Grace Naledi Mandisa Pandor's mother?",
+    "input": "",
+    "output": "Regina Thelma",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the Kiwi Man of Kashmir?",
+    "input": "",
+    "output": "Bashir Ahmad War",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How old was Clint Ballard Jr. when he attended a musical program for gifted students at the University of North Texas?",
+    "input": "",
+    "output": "11 years.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What's the secret identity of the third Doll Man?",
+    "input": "",
+    "output": "Dane Maxwell",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was voted by Digital Spy readers in 2016 as the best TV character of the 21st century?",
+    "input": "",
+    "output": "The 10th Doctor (Doctor Who)",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what city did Rachel Carson and Dorothy Freeman first meet in 1953?",
+    "input": "",
+    "output": "Southport Island",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which U.S. TV station did the Canadian reality series *To Serve and Protect* debut?",
+    "input": "",
+    "output": "KVOS-TV",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which high school did the architect Eleanor Manning O'Connor attend?",
+    "input": "",
+    "output": "Lynn Classical High School",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the 10th King of Nepal?",
+    "input": "",
+    "output": "Birendra Bir Bikram Shah Dev",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month and year did inmate Porfirio Duarte-Herrera escape from a medium-security Nevada prison without anyone noticing for four days?",
+    "input": "",
+    "output": "September 2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was Ludvig Faddeev awarded his candidate's degree for his thesis \"Properties of S-Matrix for the Scattering on a Local Potential\"?",
+    "input": "",
+    "output": "1959",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year did Rana Ayyub (an Indian journalist) receive the Sanskriti Award for Excellence in Journalism?",
+    "input": "",
+    "output": " October 2011",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Where was the first B.A.S.S. Bassmaster Tournament held?",
+    "input": "",
+    "output": "Lake Mead",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which date, month, and year did the BBC publish an apology on their website for previously publishing inaccurate statements about Tunisian politician Rached Ghannouchi six months earlier on 21 November 2012?",
+    "input": "",
+    "output": "17 May 2013",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the state highway road number of the Uthamapalayam-Bodenthirapuram Road under the Theni division of Tamil Nadu, India?",
+    "input": "",
+    "output": "SH229",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was the RS-1 satellite launched from the Satish Dhawan Space Centre in India?",
+    "input": "",
+    "output": "18 July 1980",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which place in the Jammu division is known as Chota Kashi?",
+    "input": "",
+    "output": "PURMANDAL",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the 3rd CEO of Lumon Industries in the show \"Severance\"?",
+    "input": "",
+    "output": "Myrtle Eagan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which episode from Season 4 of Regular Show do Mordecai and Rigby have mullets again?",
+    "input": "",
+    "output": "Episode 13, \"Sandwich of Death\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the total number of tracks on the Ys Origin original soundtrack released in 2007?",
+    "input": "",
+    "output": "37",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what city and state is Elizabeth Magie Phillips buried?",
+    "input": "",
+    "output": "Arlington, Virginia",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what position did Romania finish in the 2022 Rugby Europe Championship?",
+    "input": "",
+    "output": "Second position",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In feet, what is the draft length of the Goderich 35 fitted with a standard keel?",
+    "input": "",
+    "output": "4.75 ft",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was American music producer George Avakian discharged from the U.S. Army?",
+    "input": "",
+    "output": "1946.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first and last name of the first American transgender person featured in the National Portrait Gallery?",
+    "input": "",
+    "output": "Sylvia Rivera",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What fellowship was Zanele Muholi awarded in 2012?",
+    "input": "",
+    "output": " Civitella Ranieri Fellowship",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who served before Cora Sadosky as president of the Association for Women in Mathematics?",
+    "input": "",
+    "output": "Carol S. Wood",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who started a \"Free Theatre\" at the Ferrer Center in late 1914?",
+    "input": "",
+    "output": "Moritz Jagendorf.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the gun time to the hour, minute, and second that Justin Kemboi Chesire finished in the Old Mutual 56km Ultra Two Oceans Marathon in 2019?",
+    "input": "",
+    "output": "03:11:22",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who won the International Photography Awards' \"Discovery of the Year\" award in 2017?",
+    "input": "",
+    "output": "Mariano Belmar",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the date, month, and year ARA's operations in Russia were shut down?",
+    "input": "",
+    "output": "June 15, 1923.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the winner of the 1995 Scandinavian Masters golf tournament?",
+    "input": "",
+    "output": "Jesper Parnevik",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What minor planet designation number was originally assigned to the asteroid 176 Iduna?",
+    "input": "",
+    "output": "175",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How old was Hong Kong social activist Elsie Tu when she married her second husband?",
+    "input": "",
+    "output": "71.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the month and year when Google hosted a hacking contest aimed at computer security experts called \"Pwnium\"?",
+    "input": "",
+    "output": "March 2014",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "For which team did Edward Ambrose Hug, the American Major League Baseball catcher, make his MLB debut?",
+    "input": "",
+    "output": "Brooklyn Superbas",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of March 2016, how many companies and institutions were developing vaccines against Zika, and how long did they state a vaccine is unlikely to be widely available?",
+    "input": "",
+    "output": "18",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What system did Thomas Edison begin to develop in 1874?",
+    "input": "",
+    "output": "Multiplex telegraphic system",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which day, month, and year did the series Human Planet first premiere on Discovery en Español?",
+    "input": "",
+    "output": " 25 April 2011",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Name the dentist who died in May 2019 after being injured in an elevator crash at the Dr. Bhau Daji Lad Museum (BDL) in Mumbai on April 28.",
+    "input": "",
+    "output": "Dr Arnavaz Havewalla",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was Moesha's first friend at Bridgewood?",
+    "input": "",
+    "output": "Haley Dillard",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What battery does the G-Shock GG-B100-8A come with?",
+    "input": "",
+    "output": "CR2025",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the full name of the Indian medical doctor and surgical oncologist who received the Padma Shri and the Lal Bahadur Shastri National Award in January and October 2013, respectively?",
+    "input": "",
+    "output": "Rajendra Achyut Badwe",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which month and year was William Harrison Standley appointed as the American Ambassador to the USSR?",
+    "input": "",
+    "output": "February 1942",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which architects designed the Abasto?",
+    "input": "",
+    "output": "José Luis Delpini, Viktor Sulčič and Raúl Bes",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the Legends continuity of Star Wars, how many grandchildren did Anakin Skywalker have?",
+    "input": "",
+    "output": "4",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was awarded the Calogero Vinti Prize in 2019?",
+    "input": "",
+    "output": "Filippo Ambrogio Santambrogio",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Christopher Ndarathi Murungaru, a former Kenyan politician, born?",
+    "input": "",
+    "output": "19th August 1954",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was Masaki Tsuji given a lifetime achievement award at the 11th Japan Media Arts Festival?",
+    "input": "",
+    "output": "December 4, 2007",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which TV series did Pedro Pascal play alongside his sister for the first time?",
+    "input": "",
+    "output": "Narcos",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the first principal of Brihaspati Vidyasadan, a school in Kathmandu, Nepal, established in 1985?",
+    "input": "",
+    "output": "Maurice Banerjee",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year did the singer and actress Vanessa Hudgens marry Cole Tucker?",
+    "input": "",
+    "output": " 2 December 2023",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the award Mary Munson Runge received from the American Pharmacists Association in 1996?",
+    "input": "",
+    "output": " Hugo H. Schaefer Award",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the TV series Modern Family, in Season 4, Episode 23, which sport is Lily competing in?",
+    "input": "",
+    "output": "Gymnastics",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year was Captain Joern Rene Klausen found dead aboard the Monarch of the Seas?",
+    "input": "",
+    "output": "January, 2006.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What patch removed the Silver Armor from the crafting recipe for Jungle Armor in Terraria?",
+    "input": "",
+    "output": "1.1",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What album is the song \"God Is Alive, Magic Is Afoot\" by Chris Thile on?",
+    "input": "",
+    "output": "Laysongs",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What song by Carla Bruni was used in the Chuck episode \"Chuck vs. the First Class\"?",
+    "input": "",
+    "output": "L'amoureuse",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Sayed Haider Raza's (an Indian painter) mother die?",
+    "input": "",
+    "output": "1947",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did German instrument maker Ernst Abbe invent the apochromatic lens system for the microscope?",
+    "input": "",
+    "output": "1868",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the first and last name of the fifth director of the Metropolitan Museum of Art?",
+    "input": "",
+    "output": "Francis Taylor",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which season and episode of South Park does Randy become a chef at South Park Elementary?",
+    "input": "",
+    "output": "Season 14, \"Crème Fraîche\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What country was the first to democratically elect a woman as president?",
+    "input": "",
+    "output": "Iceland ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who publicly demonstrated a face-matching system in 1970 that located anatomical features and calculated the distance ratio between facial features without human intervention?",
+    "input": "",
+    "output": "Takeo Kanade ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Ahmad Jamal begin touring with George Hudson's orchestra after graduating from high school?",
+    "input": "",
+    "output": "1948",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year did Disney Entertainment Projects open DisneyFest in Singapore?",
+    "input": "",
+    "output": "October 30, 1997",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the version number of the Minecraft Java Beta that added view bobbing to the 3rd person view?",
+    "input": "",
+    "output": "1.3",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Claribel and Etta Cone acquire Henri Matisse's \"Blue Nude\" at the sale of John Quinn’s collection in Paris?",
+    "input": "",
+    "output": "1926.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the first and last names of the two individuals who discovered Crystal Cave in the Sequoia National Park area in California, United States?",
+    "input": "",
+    "output": " Alex Medley and Cassius Webster",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did Filip Hašek, the footballer, make his professional debut?",
+    "input": "",
+    "output": "22 July 2018",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What's the population of Özbek, Şabanözü according to the 2021 census?",
+    "input": "",
+    "output": "121",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the 2021 research paper titled \"EEG-Based Driving Fatigue Detection Using a Two-Level Learning Hierarchy Radial Basis Function\" by Ziwu Ren et al., what was the mean accuracy of the proposed RBF-TLLH approach for fatigue vs. alert classification?",
+    "input": "",
+    "output": "92.71%",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the first and last name of the recipient of the Annie Jump Cannon Award in Astronomy in 1952?",
+    "input": "",
+    "output": "Ida Barney",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of Jupiter’s third-largest moon?",
+    "input": "",
+    "output": "Io",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who published the first scientific description of the Asiatic lion in 1826?",
+    "input": "",
+    "output": "Johann N. Meyer",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the names of the two sons of the Karnofsky family that Louis Armstrong helped?",
+    "input": "",
+    "output": "Morris and Alex ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What did the artist Lygia Pape initially study in university?",
+    "input": "",
+    "output": "Philosophy",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many control participants were used in the research paper \"Grey matter atrophy in cognitively impaired Parkinson’s disease,\" published in the February 2012 edition of the Journal of Neurology, Neurosurgery, and Psychiatry?",
+    "input": "",
+    "output": "34",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who won the 1997 IJCAI Award for Research Excellence?",
+    "input": "",
+    "output": "Aravind Joshi",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what city and country did Gustave \"Gus\" Fitzhugh Touchard Jr. pass away?",
+    "input": "",
+    "output": "Toronto, Canada",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the first openly bisexual state official in the USA?",
+    "input": "",
+    "output": "Evelyn Mantilla",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was Edward Ambrose Hug, the American Major League Baseball catcher, born?",
+    "input": "",
+    "output": "July 14, 1880",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many shots did Inter attempt on target in the Champions League Final match between Bayern and Inter on May 23, 2010?",
+    "input": "",
+    "output": "7",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the Noetic Learning Math Contest founded by Li Kelty?",
+    "input": "",
+    "output": "2007.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who were the two umpires in the 1980 Gillette Cup match between Ireland and Middlesex held on 2 July 1980?",
+    "input": "",
+    "output": "Terry Spencer & Tom Spencer",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first iPad Air's main camera f-stop?",
+    "input": "",
+    "output": "ƒ/2.4 ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who described Indira Gandhi as the \"Iron Lady\"?",
+    "input": "",
+    "output": "Henry Kissinger ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Frank Munn leave the radio show \"The American Album of Familiar Music\"?",
+    "input": "",
+    "output": "1945",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the 18th Chief Minister of Karnataka?",
+    "input": "",
+    "output": "H. D. Kumaraswamy",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Between which years was Valery Matveevich Panov the artistic director of the Royal Ballet of Flanders?",
+    "input": "",
+    "output": "1984 to 1986",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the beetle species Glipa angustilineata described?",
+    "input": "",
+    "output": "1993",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who are the five judges of the Supreme Court who restored the awards and delivered a judgment that the \"Bharat Ratna and Padma awards are not titles under Article 18 of the Constitution of India?\"",
+    "input": "",
+    "output": "Ahmadi C. J., Kuldip Singh, B. P. Jeevan Reddy, N. P. Singh, and S. Saghir Ahmad.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the gallery at Blenheim Palace that was destroyed by fire in 1861?",
+    "input": "",
+    "output": "Titian Gallery",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who did Wangechi Mutu collaborate with on \"Exhuming Gluttony: A Lover's Requiem\"?",
+    "input": "",
+    "output": "David Adjaye",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Cities: Skylines released for Google Stadia?",
+    "input": "",
+    "output": "May 17, 2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the largest donor of the Liberal Democrats party in the UK as of 2005 born?",
+    "input": "",
+    "output": "April 19, 1966",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the project that won the 2008 ACM Software System Award?",
+    "input": "",
+    "output": "Gamma Parallel Database System",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which episode and season of South Park does Aunt Jemima first appear? Give me the number and title.",
+    "input": "",
+    "output": "Episode 2: Gluten Free Ebola, Season eighteen",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who received the Farrer Medal in 2014?",
+    "input": "",
+    "output": "Dr. Elizabeth Dennis",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did the Royal Society of Arts launch the Adelphi Charter, aimed at creating an international policy statement to frame how governments should make balanced intellectual property law?",
+    "input": "",
+    "output": "2005",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the person who first discovered the blood-sucking bug Triatoma carrioni?",
+    "input": "",
+    "output": "Larrousse",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many Indigenous languages were designated in Togo in 1975?",
+    "input": "",
+    "output": "Two",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was the domain \"aajtak.in\" registered?",
+    "input": "",
+    "output": "January 6, 2005",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In 1979, who won the Triple Tiara?",
+    "input": "",
+    "output": "Davona Dale",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What place did Tonya Harding achieve at the 1989 U.S. Figure Skating Championships?",
+    "input": "",
+    "output": "3rd",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which three American cities' police departments were visited by Mustafa Adebayo Balogun, Nigeria's former Inspector General of Police, and his five-man delegation to study their implementation of community policing?",
+    "input": "",
+    "output": "Houston, Atlanta, and Chicago",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was Knud Nellemose, the Danish sculptor, born?",
+    "input": "",
+    "output": "12 March 1908",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "According to the 2021 rules of Battle of the Nations, how many rounds does each longsword duel last?",
+    "input": "",
+    "output": "1",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the full name of the first person to be awarded a Ph.D. in Mathematics from the Universidad Nacional Autónoma de México?",
+    "input": "",
+    "output": "Roberto Vázquez García",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was awarded the 2020 Euler Medal by the Institute of Combinatorics and Its Applications?",
+    "input": "",
+    "output": "Marston Conder",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of Betulia, Antioquia, Colombia, founded?",
+    "input": "",
+    "output": "1849",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many children did Gilbert Hani and Mary Hani have?",
+    "input": "",
+    "output": "6",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which day, month, and year did Şahika Ercümen break a world record in the VNF category at Kaş, Antalya, Turkey, with 100 m?",
+    "input": "",
+    "output": "26 October 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of 2022, in which years did the Pakistani team not participate in the FIH World Cup?",
+    "input": "",
+    "output": "2014",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the founder of Lumon Industries in \"Severance\"?",
+    "input": "",
+    "output": "Kier Eagan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what month and year did Bakshi Ghulam Mohammad announce his retirement from politics?",
+    "input": "",
+    "output": "June 1965",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the first and last name of the person who designed the historic Emil J. Oberhoffer House in Lakeville, Minnesota, United States?",
+    "input": "",
+    "output": "Paul Haugen",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the performance that influenced \"Rhythm 2\" by Marina Abramović to include an unconscious aspect?",
+    "input": "",
+    "output": "Rhythm 5",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which of Smith Wigglesworth's grandchildren became the president of Elim Pentecostal Church?",
+    "input": "",
+    "output": "Leslie Wigglesworth",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the number of months that Kingda Ka was closed after being struck by lightning in 2009?",
+    "input": "",
+    "output": "3",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Severance, whom does Mark Scout replace as department head?",
+    "input": "",
+    "output": "Peter \"Petey\" Kilmer",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what town was the former mayor of Brasov, Romania, George Scripcaru, born?",
+    "input": "",
+    "output": "Doljești, Neamț County, Romania",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the article \"An Electric Self-Sensing and Variable-Stiffness Artificial Muscle\" by Chen Liu, James J. C. Busfield, and Ketao Zhang first published?",
+    "input": "",
+    "output": "08 July 2023",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was born on 11 March 1957 and was a former Solicitor General for Scotland, a Senator of the College of Justice, and former Chairman of the Scottish Law Commission?",
+    "input": "",
+    "output": "Paul Benedict Cullen",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did the Whitney Museum of American Art devote an entire floor to Julie Mehretu for the first time?",
+    "input": "",
+    "output": "2021.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Where did Johann Ignaz Ludwig Fischer die?",
+    "input": "",
+    "output": "In Berlin.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which commune in France is The Pont Serme located in?",
+    "input": "",
+    "output": "Coursan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which episode and season of Rick and Morty is Jerry floating around for 10 hours? Give me the number and title.",
+    "input": "",
+    "output": "Episode 5, \"Rattlestar Ricklactica\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which day, month, and year marked the beginning of Moncef Bey's reign?",
+    "input": "",
+    "output": "19 June, 1942",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who reversed Limann's boycott of Gaddafi's Libya, allowing the Black Stars to compete in the 1982 African Cup of Nations?",
+    "input": "",
+    "output": "Jerry John Rawlings",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year did Terraria version 1.4.2.1 release?",
+    "input": "",
+    "output": "March 31st 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the Society of Illustrators Welfare Fund established?",
+    "input": "",
+    "output": "1946",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many people attended the Wacken Open Air Festival in 1998?",
+    "input": "",
+    "output": "20,000",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the recipient of the ISCB Accomplishment by a Senior Scientist Award in 2012?",
+    "input": "",
+    "output": "Gunnar von Heijne",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of Ciénega, Boyacá, Colombia, founded?",
+    "input": "",
+    "output": "1818",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In 2022, what was the population of the Kızılağaç district of Kaş, Antalya Province, Turkey?",
+    "input": "",
+    "output": "221",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the recipient of the Dickson Prize in Medicine in 1981?",
+    "input": "",
+    "output": "Philip Leder",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the second son of Rickard Stark?",
+    "input": "",
+    "output": "Eddard Stark",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the affiliated institute of the winner of the Turing Award in 1968?",
+    "input": "",
+    "output": "Bell Labs",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "After Bessie Smith's car accident, which arm was amputated?",
+    "input": "",
+    "output": "The right arm",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who won the 2017 Kalpana Chawla Award for courage and daring enterprise?",
+    "input": "",
+    "output": "Preethi Srinivasan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the minor planet discovered by the Soviet astronomer in the name of Pyotr Kapitsa in 1982?",
+    "input": "",
+    "output": "3437 Kapitsa",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was the instrument Low Energy Gamma-Ray Imager (LEGRI) activated after it was successfully launched on a Pegasus XL rocket in 1997?",
+    "input": "",
+    "output": "May 19, 1997",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who did Governor W. Kerr Scott appoint to fill Joseph Melville Broughton Jr.'s vacant office after his death?",
+    "input": "",
+    "output": "Frank Porter Graham",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day and month was the victim of the 2013 Mumbai gang rape, also known as the Shakti Mills gang rape case, discharged from the hospital after the incident?",
+    "input": "",
+    "output": "27 August",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Comedian Phyllis Diller was crowned with what title by \"Field and Stream\" magazine in 1973?",
+    "input": "",
+    "output": "Miss Fun Fishing",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the seminal film that Lygia Pape made in 1975?",
+    "input": "",
+    "output": "Eat Me",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year did Arch Linux installation images start including installation scripts by default?",
+    "input": "",
+    "output": "April 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was Beloit College's Center for the Sciences renamed in 2017?",
+    "input": "",
+    "output": "Marjorie and James Sanger Center for the Sciences.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "From what university did John P. Sall receive an honorary doctorate in 2003?",
+    "input": "",
+    "output": " North Carolina State University",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the runner-up in Men's singles in the 2022 Italian Open?",
+    "input": "",
+    "output": "Stefanos Tsitsipas",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the inaugural holder of the position of Attorney General of Guatemala?",
+    "input": "",
+    "output": "Ramses Cuestas Gomez",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many Big East Championships did Frank Beamer win?",
+    "input": "",
+    "output": "3",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which two universities awarded John Harry Dunning an honorary doctorate in 2007?",
+    "input": "",
+    "output": "University of Lund, Sweden \nChinese Culture University in Taipe",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the 1900 report \"Clays of New York, Their Properties and Uses,\" in the Mineralogy of Clays section, it discusses the experiments of Vogt, which show that kaolinite is not the only substance that remains in suspension for a long time. Tests include potash mica, orthoclase from Norway, and what other mineral from what location?",
+    "input": "",
+    "output": "quartz from Limousin",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the title of the thesis of the Indian mathematician Amalendu Krishna?",
+    "input": "",
+    "output": "Zero Cycles and K-theory on normal surfaces",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name and length of the 12th song on the original Kingdom Hearts I soundtrack?",
+    "input": "",
+    "output": "A Walk in Andante, 1:18",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What kind of factory did Anselm Kiefer transform into a studio in 1992?",
+    "input": "",
+    "output": "Silk factory.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What profession did the father of Colombian mathematician and politician Sergio Fajardo Valderrama have?",
+    "input": "",
+    "output": "Architect",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the album \"Beauty Marks\" by Ciara released on CD in Japan?",
+    "input": "",
+    "output": "June 5, 2019",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of 6 April 2022, how many Hillsong branches in the U.S. had separated from the church since the revelations about Brian Houston?",
+    "input": "",
+    "output": "9",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what month and year did New York State Representative Paul Tonko resign as CEO of the New York State Energy Research and Development Authority?",
+    "input": "",
+    "output": "April 2008",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was Benoni Stinson ordained to the ministry in Kentucky?",
+    "input": "",
+    "output": "1821",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the month and year when Telegram announced that the app had 60 million active users and delivered 12 billion daily messages?",
+    "input": "",
+    "output": "September 2015.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who killed Major Disaster?",
+    "input": "",
+    "output": " Superboy-Prime",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which scientist received the Penrose Medal after the year Hollis Dow Hedberg received his?",
+    "input": "",
+    "output": "John Rodgers",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which mathematician, affiliated with Princeton University at the time, received the Fields Medal in 2022?",
+    "input": "",
+    "output": "June Huh",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of Chíquiza, Boyacá, Colombia, founded?",
+    "input": "",
+    "output": "1556",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of which year did osteoarthritis globally cause moderate to severe disability in 43.4 million people?",
+    "input": "",
+    "output": "2004",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was Natasha Merle's nomination vote count for the United States District Court for the Eastern District of New York?",
+    "input": "",
+    "output": " 50 Yeas and 49 Nays",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what round did Taylor Fritz beat Radu Albot in the 2020 French Open – Men's Singles?",
+    "input": "",
+    "output": "Second round",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who won the Margaret Oakley Dayhoff Award in 2005?",
+    "input": "",
+    "output": "Sarah Keller",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Anne Golden become the first woman to chair the American Heart Association board of directors?",
+    "input": "",
+    "output": "1991",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who became the winner of the first-ever women's event in the Nash Cup in Canada?",
+    "input": "",
+    "output": "Maria Toorpakai Wazir",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Maharaj Kishan Bhan (an Indian pediatrician and clinical scientist) receive the Padma Bhushan for civil services?",
+    "input": "",
+    "output": "2013",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What does the band name Shai mean in Swahili?",
+    "input": "",
+    "output": "Personification of destiny",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the first SoCal Sword Fight tournament held?",
+    "input": "",
+    "output": "2012",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the title of Episode 12, Season 3 of Airwolf?",
+    "input": "",
+    "output": "Half-Pint",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of Helmut Lang's solo exhibition in New York in 2017?",
+    "input": "",
+    "output": "new work",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "For which years did the Kenyan politician Amason Kingi Jeffah serve as Minister for Fisheries Development?",
+    "input": "",
+    "output": "2010-2013",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many operators does the oscillator of the Yamaha SHS-10 (1987) have?",
+    "input": "",
+    "output": "2",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which NYC borough was pharmacist David Morris Kern born?",
+    "input": "",
+    "output": "Manhattan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who did the musical composition for the play Antigone as presented in the 2022 Athens Epidaurus Festival?",
+    "input": "",
+    "output": "Dimitris Theocharis",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In the 1993 series \"The Young and the Restless,\" what was Hope saved from when Victor arrived?",
+    "input": "",
+    "output": "a rapist",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the first recipient of the D.B. Hardeman Prize?",
+    "input": "",
+    "output": "Richard F. Fenno Jr.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did John Constable (English landscape painter) refuse the position of drawing master at Great Marlow Military College?",
+    "input": "",
+    "output": "1802",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "New Yorker Edward A. Tuttle's patent application was granted on October 11, 1881, for what kind of machine?",
+    "input": "",
+    "output": "Exercising Machine",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was engineer Evi Nemeth a Distinguished Engineering Honoree at CU Boulder?",
+    "input": "",
+    "output": "2007",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month of 1968 was the OV1-13 spacecraft launched?",
+    "input": "",
+    "output": "April",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name and surname of the former President of South Africa who received a state funeral when he died on January 4, 2007?",
+    "input": "",
+    "output": "Viljoen",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was Monir Shahroudy Farmanfarmaian (an Iranian artist) awarded the Venice Biennale?",
+    "input": "",
+    "output": "1958",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who parachuted off the 267 m high (876-ft) New River Gorge Bridge near Fayetteville, West Virginia, USA, on 19 October 2013, at the age of 84 years and 37 days?",
+    "input": "",
+    "output": "Donald Cripps",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did Bruno Kreisky (an Austrian social democratic politician) marry Vera Fürth?",
+    "input": "",
+    "output": "April 23, 1942",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the Shaman totem Tremor Totem changed to be learned at level 18 in the beta of World of Warcraft?",
+    "input": "",
+    "output": "15 June 2004",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the first name of the Irish-born computer programmer Kathleen Rita McNulty Mauchly Antonelli's father?",
+    "input": "",
+    "output": "James",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the KEGG of Allopurinol, a medication used to decrease high blood uric acid levels?",
+    "input": "",
+    "output": "D00224",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which city was the first in the Southern Hemisphere and the second in the world after Philadelphia, Pennsylvania, in the United States to integrate electric street lights into its infrastructure?",
+    "input": "",
+    "output": "Kimberley",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which month and year was ex-president of Ghana, J.J. Rawlings enstooled as Togbuiga Nutifafa I of Anlo?",
+    "input": "",
+    "output": "December 2018",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "For how many episodes did Toby Jones star in The English?",
+    "input": "",
+    "output": "1",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who founded the municipality of Tuta, Boyacá, Colombia?",
+    "input": "",
+    "output": "Miguel Sánchez and Juan Rodríguez Parra",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was Markus Dörk's original replacement as guitarist for Blind Guardian?",
+    "input": "",
+    "output": "Christof Theißen",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What health crisis did Bob Barker experience on May 30, 2022?",
+    "input": "",
+    "output": "Stroke",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many years did Adil Hussain work at 'Hengul Theater' before moving to Delhi?",
+    "input": "",
+    "output": "3",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year did Louise Bourgeois create \"J'y suis, j'y reste\"?",
+    "input": "",
+    "output": "1990",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the title of the piece of art that was sold in 2016 by a popular American talk show host to an unidentified buyer in China?",
+    "input": "",
+    "output": "Portrait of Adele Bloch-Bauer II ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which Indian cricketer has been appointed UNICEF and Cricket for Good Ambassador for the ICC Women’s World Cup 2017?",
+    "input": "",
+    "output": "Sachin Tendulkar",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the date, month, and year when France proposed that the UN Security Council call for \"a rapid and massive withdrawal\" from Kuwait along with a statement to Iraq that Council members would bring their \"active contribution\" to a settlement of the region's other problems?",
+    "input": "",
+    "output": "January 14, 1991",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What are the month, day, and year Heisuke Hironaka was inaugurated as president of Yamaguchi University?",
+    "input": "",
+    "output": "16 May, 1996.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the Ambassador of India to the Soviet Union from 1949 to 1952?",
+    "input": "",
+    "output": "Sarvepalli Radhakrishnan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what city in England was James Brain, an English football manager and player born in 1900, born?",
+    "input": "",
+    "output": "Bristol",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was the John Brophy Award first awarded?",
+    "input": "",
+    "output": "1989",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What subject did Mary Winifred Betts, the spouse of Alexander Craig Aitken, lecture on at Otago University?",
+    "input": "",
+    "output": "Botony",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What position did Kelly Clarkson's album, \"Meaning of Life,\" receive on the 2018 year-end US Top Album Sales charts on Billboard?",
+    "input": "",
+    "output": "89",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the shield that the Warrior starting class in Dark Souls II starts with?",
+    "input": "",
+    "output": "Iron Parma",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what city and state did Colin Pittendrigh die?",
+    "input": "",
+    "output": "Bozeman, Montana",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "To whom was R. C. Harvey married?",
+    "input": "",
+    "output": "Linda Kubicek",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Season 2 of the American version of \"The Circle,\" what episode did Terilisha get blocked?",
+    "input": "",
+    "output": "7",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the names of Sir William Beechey's (British portraitist) parents?",
+    "input": "",
+    "output": "William Beechey and Hannah Read",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What piece of art by Antonio da Correggio did Augustus III of Poland buy in 1746?",
+    "input": "",
+    "output": "Magdalen in the Desert",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Petra Văideanu (retired Romanian heptathlete) born?",
+    "input": "",
+    "output": "August 24, 1965",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was the municipality of Sonsón, Antioquia, Colombia, founded?",
+    "input": "",
+    "output": "1800",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was an exhibition of Horiyoshi's silk scroll paintings, \"The Art of Horiyoshi III,\" first displayed at Somerset House?",
+    "input": "",
+    "output": "March 21, 2012",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On which day, month, and year was Dolmar-Salzbrücke formed as a Verwaltungsgemeinschaft?",
+    "input": "",
+    "output": "1 January 2012 ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the month and year when The Economist reported that researchers at the University of California, Berkeley conducted ultrasound studies using graphene diaphragms?",
+    "input": "",
+    "output": "July 2015",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Three years after joining Comme des Garçons, Junya Watanabe started designing which CdG line?",
+    "input": "",
+    "output": "Tricot line",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the unique form of masked dance performed in Jharkhand locally known as?",
+    "input": "",
+    "output": "The chhau.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Cylindrovertilla kingi is endemic to which country?",
+    "input": "",
+    "output": "Australia",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the MD5 checksum of the file named \"ffrelay-debian-4.30.ggi.zip,\" with the product name \"FinFisher Relay v4.30\" and a file size of 224K, which was released by WikiLeaks?",
+    "input": "",
+    "output": "180caf23dd71383921e368128fb6db52",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what date, month, and year was the Indian politician Prabhunath Singh born?",
+    "input": "",
+    "output": "20 November 1953",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of Pedro Pascal's foster dog that he had in 2018?",
+    "input": "",
+    "output": "Edgar.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At which hospital did cookbook author and celebrity chef Fatima Sydow pass away?",
+    "input": "",
+    "output": "Vincent Pallotti Hospital",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was Tim Wakefield's ERA during the '04 World Series?",
+    "input": "",
+    "output": "12.27",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which Community episode is Evil Abed's first appearance? Please give the season, episode number, and title.",
+    "input": "",
+    "output": "Season 3 Episode 4 \"Remedial Chaos Theory\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At which university did Jock Hoe give the invited lecture \"Mathematics Education in China\" to the 1989 New Zealand Mathematics Colloquium?",
+    "input": "",
+    "output": "Massey ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of the engineer and politician Ralph Edward Flanders' sole son?",
+    "input": "",
+    "output": "James.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who lent Salvador Dalí a villa for several months in 1938 so he could work?",
+    "input": "",
+    "output": "Gabrielle Coco Chanel",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year did the Union Minister of Health and Family Welfare launch the \"MusQan\" initiative in India?",
+    "input": "",
+    "output": "17th September 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the newspaper that reported the first recorded cricket match between women, held in Surrey, England, on July 26, 1745?",
+    "input": "",
+    "output": "The Reading Mercury",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "By which year was nitrous oxide the largest ozone-depleting substance (ODS) emitted through human activities?",
+    "input": "",
+    "output": "2009",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which university awarded Pieter Bleeker a Doctorate Honoris Causa for the second time in 1849 for his work in ichthyology and tropical medicine?",
+    "input": "",
+    "output": "Utrecht University",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who painted the still life oil painting of canned goods that was featured on Maine's 2011 Common Ground Country Fair poster?",
+    "input": "",
+    "output": "Dacia Klinkerch",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the artist who painted the first Duchess and Lady Fitzharding playing cards, which hung in the green drawing room as of 1908, according to \"Historic Houses and Their Gardens: Palaces, Castles, Country Places, and Gardens of the Old and New Worlds\"?",
+    "input": "",
+    "output": "Sir Godfrey Kneller",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the name of track number 6 on disc 1 of the Sen no Kiseki IV - The End of Saga - original soundtrack?",
+    "input": "",
+    "output": "\"Saint-Gral Labyrinth\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the full name of the individual who was awarded the Spearman Medal in 1992?",
+    "input": "",
+    "output": "Usha Claire Goswami",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who did Buzz Thomas defeat in the 2002 election for the Michigan State Senate - 4th District?",
+    "input": "",
+    "output": "Karen Mastney",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Clive Derby-Lewis become town councilor for Bedfordview?",
+    "input": "",
+    "output": "1972",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the first and last name of the father-in-law of former U.S. Representative Henry D. Flood?",
+    "input": "",
+    "output": "Robert Portner",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the pass accuracy of France in the FIFA World Cup Final between France and Croatia in 2018?",
+    "input": "",
+    "output": "68%",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first and last name of the Deputy Speaker of the 10th Parliament of Uganda?",
+    "input": "",
+    "output": " Jacob Oulanyah",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did the Ethiopian politician Billene Seyoum Woldeyes co-form a spoken-word poetry collective called Zemneged-Andinet?",
+    "input": "",
+    "output": "2011",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the month and year when the long-stalled trade agreement with South Korea came into effect in the U.S. Congress?",
+    "input": "",
+    "output": "March 2012",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the last DC utility in NYC shut down?",
+    "input": "",
+    "output": "2007",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was the municipality of Motavita, Boyacá, Colombia, founded?",
+    "input": "",
+    "output": "1816",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did the Guinness Book of World Records name Circus Circus as the world's largest permanent circus?",
+    "input": "",
+    "output": "1974",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the EP \"Dirty Laundry\" released by Adore Delano?",
+    "input": "",
+    "output": "July 9, 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did the mathematician Joachim Neubüser graduate from the University of Kiel?",
+    "input": "",
+    "output": "1957",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the title of the mechanical engineer Gang Chen's Ph.D. thesis published in 1993?",
+    "input": "",
+    "output": "Microscale thermal phenomena in optical and optoelectronic thin film devices",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which Ukrainian city was male impersonator Pepi Litman born?",
+    "input": "",
+    "output": "Ternopil",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who founded the municipality of Sonsón, Antioquia, Colombia?",
+    "input": "",
+    "output": "José Joaquín Ruiz y Zapata",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On April 1, 1952, at which university did Hidegorô Nakano become a professor?",
+    "input": "",
+    "output": "Hokkaido University",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year was Satyanarayan Gangaram Pitroda (an Indian telecommunication engineer and entrepreneur) appointed as advisor to Indian Prime Minister Manmohan Singh on Public Information Infrastructure and Innovations with the rank of Cabinet Minister?",
+    "input": "",
+    "output": " October 2009",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Norodom Ranariddh join the FUNCINPEC?",
+    "input": "",
+    "output": "1983",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the beetle species Glipa annulata described?",
+    "input": "",
+    "output": "1868",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In Season 3 of the American version of \"The Circle,\" in which episode did Vince enter the game?",
+    "input": "",
+    "output": "7",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is the head of security on Lumon's severed floor in Season 1 of Severance?",
+    "input": "",
+    "output": "Doug Garner",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who choreographed Issey Miyake's produced “Aomori University Men’s Rhythmic Gymnastics Team” performance?",
+    "input": "",
+    "output": "Daniel Ezralow",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who won the silver medal in men's individual foil fencing in the Tokyo 2020 Olympics?",
+    "input": "",
+    "output": "Daniele Garozzo",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Name the person who became the president of Entertainment at Fox Broadcasting in September 1995 but left Fox in 1996 and soon became the president of HBO.",
+    "input": "",
+    "output": "John Matoian",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the title of the journal that Charles Raymond Perrault served as co-editor-in-chief of from 2001 to 2010?",
+    "input": "",
+    "output": "Artificial Intelligence",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Takashi Masuzaki born?",
+    "input": "",
+    "output": "Dec 8th, 1962",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Before 2013, what was the municipal division of Gusevsky District in Kaliningrad Oblast incorporated as?",
+    "input": "",
+    "output": "Gusevsky Municipal District",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was the Krieger–Nelson Prize awarded to Penny Haxell?",
+    "input": "",
+    "output": "2006",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what date, month, and year did Pakistani President Arif Alvi confer Nishan-e-Pakistan on Syed Ali Shah Geelani to recognize his decades-long struggle for Kashmiris' right to self-determination?",
+    "input": "",
+    "output": "August 14, 2020 ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was John II of France coronated as King of France?",
+    "input": "",
+    "output": "26 September 1350",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of which month and year did StatCounter estimate that Chrome has a 65% worldwide browser market share (after peaking at 72.38% in November 2018) on personal computers?",
+    "input": "",
+    "output": "April 2024",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which season and episode of South Park does Stan ask why dogs have cold noses?",
+    "input": "",
+    "output": "Season 2 Episode 3: \"Ike's Wee Wee\"",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "The Honeybee Conservancy founder Guillermo Fernandez was a child immigrant from which country?",
+    "input": "",
+    "output": "Cuba",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which city and province was David Sweet born?",
+    "input": "",
+    "output": "Kingston, Ontario",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was the New Zealand Prime Minister Christopher Luxon born?",
+    "input": "",
+    "output": "19 July 1970",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the full name of the mathematician who started the publication \"Mathematica Japonicae\" using his own funds in 1948?",
+    "input": "",
+    "output": "Tatsujiro Shimizu",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which two universities did Chadwell O'Connor attend?",
+    "input": "",
+    "output": "Stevens Institute of Technology and California Institute of Technology",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which one of the 1990 Fly Girls from the series In Living Color stayed for five seasons?",
+    "input": "",
+    "output": "Deidre Lang",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What year was the municipality of San Miguel de Sema, Boyacá, Colombia, founded?",
+    "input": "",
+    "output": "1915",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How much money did Benny Hinn Ministries donate to the tsunami relief effort in 2007?",
+    "input": "",
+    "output": "$250,000",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day in 2022 was the Ministry of Culture and Equality (Norway) established?",
+    "input": "",
+    "output": "1st January ",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the day, month, and year when Twitter overhauled its website once more to feature the \"Fly\" design, which the service says is easier for new users to follow and promotes advertising?",
+    "input": "",
+    "output": "December 8, 2011",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the date, month, and year that Jody Williams, the fourth season winner of South African Idols, was born?",
+    "input": "",
+    "output": "May 17, 1990.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which mycologist circumscribed Lillicoa?",
+    "input": "",
+    "output": "Martha Sherwood",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which month and year did Botswana police investigate Simbi Phiri after he allegedly crossed the Tlokweng border post near Gaborone with over $886,000 (R11.8m) in cash?",
+    "input": "",
+    "output": "February 2017",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year did Disney end the distribution of Disney Channel programs in Russia?",
+    "input": "",
+    "output": "December 14, 2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year did Jacinda Kate Laurell Ardern receive a Harvard honorary degree?",
+    "input": "",
+    "output": "2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the effective total pixel count of my Sigma DP1 Quattro?",
+    "input": "",
+    "output": "29MP",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the apparent visual magnitude of Gliese 146?",
+    "input": "",
+    "output": "8.64",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who died without naming a successor, which led to a war of succession in 370 BC?",
+    "input": "",
+    "output": "Marquess Wu",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the UNII of Nivolumab, an anti-cancer medication?",
+    "input": "",
+    "output": "31YO63LBSN",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What patch was released after Patch 1.11.0 for the game World of Warcraft?",
+    "input": "",
+    "output": "Patch 1.11.1",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the individual who won the Meldola Medal and Prize in 1948?",
+    "input": "",
+    "output": "Raphael",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year was Ukrainian-born mathematician Aleksandr Yakovlevich Povzner the first to apply the technique of transformation operators of Volterra type to spectral theory?",
+    "input": "",
+    "output": "1948",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who were the two people who first described Metformin in scientific literature in 1922?",
+    "input": "",
+    "output": "Emil Werner and James Bell.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In inning 4 of Game 1 of the '07 World Series, who hit a double that scored two runs?",
+    "input": "",
+    "output": "Jason Varitek",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In 1863, George Bentham renamed *Cyanothamnus ramosus* to what binomial name?",
+    "input": "",
+    "output": "Boronia ramosa",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What strength stat is needed to wield the Crystal Ring Shield in Dark Souls?",
+    "input": "",
+    "output": "10",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the total number of pixels for the Sony Alpha 1?",
+    "input": "",
+    "output": "50.5 megapixels",
+    "dataset": "simpleQA"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "instruction": "In what month and year did Theresa Kuffour (former First Lady of Ghana) die?",
+    "input": "",
+    "output": "October 2023",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was the municipality of Murindó, Antioquia, Colombia, founded?",
+    "input": "",
+    "output": "1835",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What were the names of the two puppets that appeared in Atlanta, Georgia-based Round Table Pizza's TV commercials from 2003 to 2005?",
+    "input": "",
+    "output": "Matt and Marcus",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which channel live-broadcasted the 5th Streamy Awards on September 17, 2015, hosted by Grace Helbig and Tyler Oakley?",
+    "input": "",
+    "output": "VH1",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How tall in feet is Zerxus from Exandria Unlimited: Calamity?",
+    "input": "",
+    "output": "6 feet",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year did Chief Gani Fawehinmi win the ‘Bruno Kreisky’ award from the Government of Austria?",
+    "input": "",
+    "output": "June 11, 1993",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What soccer team was the first to be sponsored by the brand New Balance in England?",
+    "input": "",
+    "output": "Liverpool F.C.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the deputy leader of the Italian team at the 63rd IMO (International Mathematical Olympiad), held in 2022?",
+    "input": "",
+    "output": "Marco Trevisiol",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Give the names of two sisters of Mukul Chandra Dey, a Bengali artist.",
+    "input": "",
+    "output": "Annapura and Rani Chanda",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was George Frederic Watts' \"After the Deluge\" originally named in 1886?",
+    "input": "",
+    "output": "The Sun",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What single item is Max, the resin gnome sculpture designed by Tom Clark at Cairn Studio in 1985 (Item #1090), holding in his left hand?",
+    "input": "",
+    "output": "A coffee bean",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the Lieutenant Commander of UC-67 during the period from July 12 to August 2, 1917?",
+    "input": "",
+    "output": "Hans Nieland",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What are the first name and surname of the woman who was voted 17th in the Top 100 Great South Africans in 2004?",
+    "input": "",
+    "output": "Brenda Fassie",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the first name of the South African politician who served as Minister of Higher Education and Training and Minister of Home Affairs under President Jacob Zuma and was Deputy Minister in the Presidency for Women, Youth, and Persons with Disabilities?",
+    "input": "",
+    "output": "Hlengiwe",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "At what time to the nearest second did Tijmen Eising end the race, ranking in the first position, in the 2009 UCI Cyclo-cross World Championships – Men's junior race?",
+    "input": "",
+    "output": "40:06",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month, day, and year did the Durban-based shack-dwellers' movement Abahlali baseMjondolo take the KwaZulu-Natal government to court over their controversial Elimination and Prevention of Re-Emergence of Slums Act?",
+    "input": "",
+    "output": "14 May 2009",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What is the surname of the individual who was awarded the Francis P. Garvan–John M. Olin Medal in 1951?",
+    "input": "",
+    "output": "Blodgett",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In what year did Timothy “Tim” Griffin obtain a political appointment as a Special Assistant to the Assistant Attorney General for the Criminal Division?",
+    "input": "",
+    "output": "2001",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "On what day, month, and year was Joeri Verlinden born?",
+    "input": "",
+    "output": "22 January 1988",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of March 2016, how many companies and institutions were developing vaccines against Zika, and how long did they state a vaccine is unlikely to be widely available?",
+    "input": "",
+    "output": "18",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What are the five keywords of the paper \"Semantic Maps of Causation: New Hybrid Approaches Based on Corpora and Grammar Descriptions\" as of its publication on June 9, 2022?",
+    "input": "",
+    "output": "Causation, Multidimensional Scaling, Graph theory, Cluster analysis, Parallel corpus",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was Zoleka Mandela first diagnosed with cancer?",
+    "input": "",
+    "output": "2012",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the day, month, and year when Mario-Rafael Ionian, an Austrian former competitive figure skater, was born?",
+    "input": "",
+    "output": "14 October 1990.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What month, day, and year was James V. Allred nominated by President Franklin D. Roosevelt to the United States District Court for the Southern District of Texas?",
+    "input": "",
+    "output": "January 5, 1939",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which figure in the paper \"Identifying semantic role clusters and alignment types via microrole coexpression tendencies\" shows the hierarchical clustering of similarities in microrole coexpression?",
+    "input": "",
+    "output": "Figure 6",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What band opened on Sunday, September 6, 1992, at Ieperfest Hardcore '92 festival?",
+    "input": "",
+    "output": "Abolition",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who is known as the first rock star of the Middle East?",
+    "input": "",
+    "output": "Lydia Canaan",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How many siblings did Pauline LaFon Gore have?",
+    "input": "",
+    "output": "5",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the name of the maternal grandfather of Govind Ballabh Pant (the first Chief Minister of Uttar Pradesh)?",
+    "input": "",
+    "output": "Badri Dutt Joshi",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which district is the Draj Bridge located?",
+    "input": "",
+    "output": "Rajouri",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was David Richardson, the figure skater, born?",
+    "input": "",
+    "output": "18 August 1987",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What was the true vertical depth in meters at which hydrocarbons were encountered in the Eban-1X well?",
+    "input": "",
+    "output": "3949m",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Where did Johann Ignaz Ludwig Fischer die?",
+    "input": "",
+    "output": "In Berlin.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year and month did El Cielo receive its first Michelin star in Miami?",
+    "input": "",
+    "output": "June 2022",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was the ensemble officially named the A.V. Alexandrov Twice Red-bannered and Red-starred Song and Dance Ensemble of the Soviet Army?",
+    "input": "",
+    "output": "1949.",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "As of the 2020 Census, what was the population of Grand Mound, Iowa?",
+    "input": "",
+    "output": "615",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "In which year was John B. Mortimer appointed a Judge of the High Court of Hong Kong?",
+    "input": "",
+    "output": "1985",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "The Samsung Galaxy A22 4G comes with what GPU?",
+    "input": "",
+    "output": "Mali G52 MC2",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Who was the chief guest of the first convocation of Indira Gandhi National Open University, New Delhi, held in 1989?",
+    "input": "",
+    "output": "Rajiv Gandhi",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "Which day, month, and year did Şahika Ercümen break a world record in the VNF category at Kaş, Antalya, Turkey, with 100 m?",
+    "input": "",
+    "output": "26 October 2021",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What place did the album \"I Am... Sasha Fierce\" by Beyoncé place in the year-end 2010 Australian Albums (ARIA) charts?",
+    "input": "",
+    "output": "61",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "How long in meters was the glacial waterfall in the Arctic Circle that Aniol Serrasolses kayaked down for the first time as the biggest ever drop recorded?",
+    "input": "",
+    "output": "20m-high",
+    "dataset": "simpleQA"
+  },
+  {
+    "instruction": "What day, month, and year was Franco Bassanini, the Italian lawyer, politician, and minister, born?",
+    "input": "",
+    "output": "9 May 1940",
+    "dataset": "simpleQA"
+  }
+]

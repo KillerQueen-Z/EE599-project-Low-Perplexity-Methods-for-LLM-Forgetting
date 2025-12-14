@@ -1,0 +1,296 @@
+[
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The population of plants will go down if\nA. nobody cuts them down\nB. the people leave them alone\nC. the rabbits avoid them\nD. there's less liquid around",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is an example of reproduction occurring in adulthood?\nA. humans are unable to reproduce until they are legal adults\nB. eggs are unable to be fertilized before they are dropped\nC. dogs are unable to have puppies until they are two years old\nD. cats are unable to produce offspring until they are sexually mature",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What does the earth orbit that causes the seasons to change?\nA. venus\nB. pluto\nC. neptune\nD. plasma star",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a stone is broken down into sand it is\nA. glass\nB. mechanically weathered\nC. garden compost\nD. grits",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The creation of gypsum from anhydrite is an example of what?\nA. chemical change\nB. volcanic activity\nC. biological change\nD. mechanical change",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What makes the best wiring?\nA. rope\nB. Tungsten\nC. hemp\nD. plastic",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "what role does some plankton have that is similar to farmer in ohio?\nA. needs food\nB. produces food\nC. can get sick\nD. lives in ocean",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "How low must be a population of some species drop before it is extinct?\nA. fifteen\nB. ten\nC. to nothing\nD. eighty",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is an example of solid matter\nA. an egg in a carton\nB. molten copper in a vat\nC. water in a glass\nD. mercury in a thermometer",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A radiator is something that can\nA. recycle water from the toilet\nB. propel a rocket to the moon\nC. keep a room comfortable\nD. filter water from the tap",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A knife refuses to stick to a blanket due to\nA. luck\nB. gravity\nC. lack of magnetism\nD. tension.",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If someone wants you to stop, they want you to\nA. be fast\nB. eat cheese\nC. be slow\nD. be still",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which likely increased atmospheric CO2 recently?\nA. sustainable fisheries\nB. electric cars\nC. motorcycles\nD. ant populations",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If things are deposited consistently in dark, cavernous area, then a thing that could develop is\nA. apple juice\nB. a stalactite\nC. road rash\nD. blue jeans",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Classes and categories are both part of\nA. distraction\nB. confusion\nC. control\nD. designating",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What can cause light to bounce off an object?\nA. something painted black\nB. surface with aluminium\nC. water condensation\nD. springs and coils",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Flowers make themselves attractive to hummingbirds with\nA. nocturnal access\nB. prickly thorns\nC. dull, subdued colors\nD. an optimal angle",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Being a nonrenewable resource means coal\nA. is highly sought after as an alternate energy source\nB. can be replaced and replenished with enough time\nC. the industry one day will cease to exist\nD. is flourishing with an unending supply",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An inherited characteristic from my dad is\nA. nasal structure\nB. a building\nC. the bike\nD. the cat",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Maggots eat flesh turning it into\nA. dryer\nB. nourishment for soil\nC. rancid\nD. deadlier",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The skeletal system protects\nA. pancreas\nB. toenails\nC. eyes\nD. hair",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An amoeba is a unique individual that\nA. makes friends\nB. has multiple uses\nC. works together\nD. exists solitary",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Places lacking warmth have few what\nA. biological entities\nB. biological weapons\nC. cold entities\nD. astronomical entities",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A 40 foot wide hole is found in the dessert. It's shaped like a ball had hit it. What could have happened?\nA. something from space entered the atmosphere\nB. a lizard built the hole\nC. the moon's gravity pulled sand out of the hole\nD. a dust storm filled it in",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Sonar is used to find an objects what?\nA. locale\nB. elements\nC. minerals\nD. mass",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following would be insulated\nA. a piece of paper\nB. a log of wood\nC. a beehive covered in wax\nD. a statically charged shirt",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The more cereal people consume the more we will need to plant\nA. corn\nB. gravy\nC. milk\nD. tomatoes",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Cactus house a great amount of\nA. favorite fishing holes\nB. chlorophyll\nC. bark\nD. pine cones",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Large fluffy clouds in winter may\nA. sink\nB. burn\nC. melt\nD. precipitate",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "After the chickens were let into the field, the population of worms\nA. decreased\nB. increased\nC. exploded\nD. fluctuated",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a handheld cylinder is allowing people to see in the forest after dusk, then the item likely\nA. needs a blanket\nB. is a stone\nC. hooks to outlets\nD. uses knitting needles",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Gravitational force never affects\nA. balloons\nB. stars\nC. sunshine\nD. air",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A skunk wards off predators with\nA. a noxious spray\nB. bad taste\nC. a powerful nose\nD. smelling good",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "humans changing animal habitats usually causes harm to\nA. the residential things\nB. sneakers\nC. rocks\nD. clouds",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is going to the woods to bag fresh venison. This person is\nA. fishing\nB. gardening\nC. stalking\nD. building",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A lot more sunlight is getting through to the forest floor in the summer than the summer before.\nA. a lumber company got resources from the forest\nB. the sun is a lot brighter than the year before\nC. A piece of the sun has been placed on the forest floor\nD. mirrors have been placed in the tree tops by squirrels",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "More dirt and sand gets deposited in a flat area near a river whenever\nA. the river is hit with an extremely large amount of precipitation in a day\nB. a deer is hunted on the river bank\nC. birds fly over the area\nD. a helicopter flies too low over the land",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "the winter solstice is on June 21st in the\nA. upper side of earth\nB. only online in blogs\nC. on the dark side of the moon\nD. lower half of terra",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person can bring harm to an animal habitat by\nA. avoiding it\nB. leaving it alone\nC. building in it\nD. ignoring it",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is wondering how much the steam from the pot of water that is boiling will measure. They are able to measure it in a definite way by\nA. making the liquid condense outdoors\nB. remembering how big steam clouds are\nC. burning the hot steam\nD. collecting the condensed liquid",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Animals need to get ready for the changing seasons in various ways. One way bears get ready for the Winter is by having their\nA. ears fall off\nB. fur get thinner\nC. fur get thicker\nD. nose get blue",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is lost in a dense forest, and needs to find their home. They know their home is to the south, and they are headed north. They can find home by using a\nA. northern-directing device\nB. northern light reader\nC. northeastern winds\nD. north central credit",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A boy is playing with his toy boat in his wading pool. His mother comes along and sprays more water into the pool.\nA. the boat flies\nB. the boat swims\nC. the boat drowns\nD. the boat rises",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If one mineral can scratch another mineral then that other mineral is softer than that one mineral, as can be tested with\nA. a diamond and steel\nB. a rock and glass\nC. a diamond and agate\nD. a ruby and salt",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Twenty four hours are\nA. some hours on clock\nB. minutes in a day\nC. passing by the side\nD. segments of a cycle",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Seed dispersal is when the seeds of a plant are moved to a new environment from where?\nA. plant charts\nB. sky\nC. space\nD. parent flora",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Soil is an example of what type of resource for growing plants?\nA. Renewable Resource\nB. Abundant Resource\nC. Natural Resource\nD. Recycled Resource",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If you're suffering from hypothermia it would help to get close to\nA. an air conditioner\nB. a boat\nC. a mountain\nD. an oven",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which object would have more tightly packed matter\nA. gold\nB. gas\nC. wood\nD. water",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  }
+]

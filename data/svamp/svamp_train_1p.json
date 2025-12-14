@@ -1,0 +1,44 @@
+[
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 527 chocolate chip cookies and 86 raisin cookies yesterday. And she baked 86 raisin cookies and 554 chocolate chip cookies this morning.\nHow many chocolate chip cookies did Helen bake?",
+    "output": "Reasoning: ( 527.0 + 554.0 )\nFinal Answer: 1081",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Each pack of dvds costs 107 dollars. If there is a discount of 106 dollars on each pack\nHow many packs of dvds can you buy with 93 dollars?",
+    "output": "Reasoning: ( 93.0 / ( 107.0 - 106.0 ) )\nFinal Answer: 93",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening.\nHow many emails did Jack receive in the day?",
+    "output": "Reasoning: ( ( 6.0 + 3.0 ) + 5.0 )\nFinal Answer: 14",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Winter is almost here and most animals are migrating to warmer countries. There are some bird families living near the mountain. 20 bird families flew away for winter while 14 bird families stayed behind.\nHow many bird families were living near the mountain at the start?",
+    "output": "Reasoning: ( 20.0 + 14.0 )\nFinal Answer: 34",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Matthew had some crackers. If Matthew gave 2 crackers to each of his 11 friends\nHow many crackers did Matthew have?",
+    "output": "Reasoning: ( 11.0 * 2.0 )\nFinal Answer: 22",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Together Adam and Jackie have 12 apples. He has 9 apples more than Adam and Jackie together do. Adam has 8 more apples than Jackie.\nHow many apples does He have?",
+    "output": "Reasoning: ( 12.0 + 9.0 )\nFinal Answer: 21",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples.\nHow many more peaches than apples does Steven have?",
+    "output": "Reasoning: ( 17.0 - 16.0 )\nFinal Answer: 1",
+    "dataset": "svamp"
+  }
+]

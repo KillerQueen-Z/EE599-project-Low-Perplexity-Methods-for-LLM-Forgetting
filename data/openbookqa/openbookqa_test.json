@@ -1,0 +1,2972 @@
+[
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a wolf is unable to catch prey reliably, the wolf will\nA. show ribs\nB. hunt more\nC. have pups\nD. take naps",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What requires energy to move?\nA. a rock\nB. a cloud\nC. a monkey\nD. a leaf",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "F field mouse touched a special type of fence made for cattle and was killed instantly. The fence had a source of power. What happened?\nA. The mouse was frightened to death\nB. The mouse had a heart attack\nC. The mouse was electrocuted\nD. The mouse had cancer",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An iris may have trouble thriving in an arid location, or even in a frozen location, because it needs\nA. to be dried and preserved\nB. a certain climate to boom\nC. a bucket of ice water\nD. to be buried in snow",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When would a puddle get smaller and disappear the fastest?\nA. on a snowy day\nB. on a day without clouds\nC. on a cloudy day\nD. on a dark day",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "In NYC, what would you expect during December?\nA. less day light\nB. less rain\nC. less weather\nD. less moonlight",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Light enters what through the pupil?\nA. skin\nB. visual organ\nC. eye spy\nD. eye diagram",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Thermometers\nA. can tell you if you need an umbrella that day\nB. can tell you which direction the wind is blowing\nC. can help you decide how many layers of clothes to wear outside\nD. can tell you how much rain has fallen",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What provides the energy to open a doorknob?\nA. you\nB. a ghost's hand\nC. alloys\nD. electricity",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "There are many changes that can occur to the earth, quickly or overtime. Which would occur over millions of years?\nA. earthquake\nB. canyon\nC. tornado\nD. Tsunami",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What one animal commonly associated with America and is the animal on a one dollar bill would eat the long eared animal on a cartoon commonly eating a carrot and saying What's up doc??\nA. Jackal\nB. Wolf\nC. Eagle\nD. Bear",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "In America, we know that January is a Winter month. But in other parts of the world, its another season. due to\nA. store\nB. coma\nC. differing hemisphere\nD. different world",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A couple having a baby want to guess if the child will share the same eye color as mother and father so they\nA. chart the likelihood\nB. pray for peace\nC. take a vacation\nD. inject a dye",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A beach had large stones on it several decades ago. Now, after years of rough winds, the beach is mostly\nA. jungle brush\nB. enormous boulders\nC. tiny grains\nD. tall trees",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If an organism is existing then it is made up of\nA. cola\nB. life material\nC. soil\nD. sap",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of these would absorb more sunlight\nA. A cave\nB. A octopus\nC. A bat\nD. An elephant Ear",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A thing which is invisible to the passing gaze, yet has a visible form is probably\nA. a bald eagle\nB. a stonefish\nC. a cow\nD. a hippo",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The more that worms make their way through compost, the more\nA. bees in skies\nB. vitamins in dirt\nC. trees in fields\nD. snakes on planes",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A pepper would be hottest if it was\nA. defecated into a bottle by a yeti\nB. frozen in a commercial freezer\nC. left it in the sun\nD. eaten by a super model",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Decomposition\nA. takes away from the soils ability to nourish plant life\nB. adds to the components needed to sustain life in the soil\nC. increases the rate of depletion of nutrients in the soil\nD. decreases nutrients in the soil",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Phloem\nA. acts as a delivery person for a plant\nB. acts as a trainer for a plant\nC. acts as a doctor for a plant\nD. acts as a farmer for a plant",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A bear that has great strength, when compared to a bear with little strength, will likely be\nA. sickly\nB. objectively fit\nC. malnourished\nD. in poor health",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which would most directly benefit from installing receptors for converting light into power?\nA. a family of humans in a city where it rains every day\nB. a herd of crows\nC. a research base near the equator\nD. a group of squirrels",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "One of the main things that can negatively impact organism health is\nA. singing\nB. nothing\nC. walking\nD. falling ill",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "In the 60's people watched on TV while for the first time people walked on\nA. a high rooftop in a major city\nB. a satellite without much air in our solar system\nC. the edge of a cliff in the mountains\nD. a beach in Brazil",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is most likely to make a person shiver?\nA. being in a gym\nB. being in a sauna\nC. being in a fridge\nD. being in a pool",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following would push water out of its body to evade an orca?\nA. a squid\nB. a shark\nC. a flounder\nD. a lobster",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A farmer's potato crop all dies and is gone to waste. The farmer looks in the field closely and can tell that the crops were destroyed by\nA. Jupiter\nB. all\nC. flowers\nD. bugs",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Moles are underground a lot of the time, and since few animals live there, they are unlikely to be\nA. near worms\nB. killed by others\nC. dirty\nD. in dirt",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Plants and trees suck up carbon dioxide, so if trees are cut down, carbon levels will\nA. cry\nB. fly\nC. escalate\nD. go down",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If the days are more chilled than before, and yet still avoid freezing degrees, a likely assumption is that\nA. daylight lasts longer\nB. daylight has lessened\nC. daylight is brighter\nD. nights are shorter",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An object can be seen if it reflects light toward what?\nA. visual organ\nB. eye spy\nC. feet\nD. brain",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Ethanol sometimes might be\nA. concocted\nB. love\nC. magic\nD. affection",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where would one likely find the least water?\nA. in the elephant's habitat\nB. in the crab's habitat\nC. in the cow's habitat\nD. in the cactus' habitat",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What material is an example of an electrical insulator?\nA. Metal\nB. Cement\nC. Stone\nD. Brick",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "People often tear\nA. rain\nB. evaporation\nC. voltage\nD. private documents",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is true?\nA. hydrogen is composed of water and oxygen\nB. waiters are composed of hydrogen and oxygen\nC. most of our oceans, lakes, and pond are composed of hydrogen and oxygen\nD. water is composed of hydrojets and oxyclean",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "There are nutrients in dirt, like magnesium, and those nutrients may be\nA. poisoned\nB. collected into vegetation\nC. set on fire\nD. taught to read",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "animals are unable to stay in good health without enough\nA. sustenance\nB. video games\nC. socks\nD. doors",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person with a pet amphibian will likely feed it\nA. meal worms\nB. deer\nC. steak\nD. wax",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is a source of energy for animals?\nA. grains\nB. air\nC. space\nD. sunlight",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What material can be used to transmit power to a light bulb?\nA. plastic\nB. metal\nC. wood\nD. cloth",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "an earthquake causes the ground to\nA. recite poetry\nB. bounce and jump\nC. grow fruit\nD. run marathons",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Cells can make up components of prisons, jails, holding areas and\nA. lifeforms\nB. space stone\nC. blue jeans\nD. filtered water",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where might you find the primary ingredient for making grilled rabbit in a spicy marinade?\nA. a spacious area mostly covered with trees and undergrowth\nB. inside of an AA battery\nC. an enclosed bank vault\nD. at the bottom of a bleached coral reef",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "This likely relies on a circuit being closed\nA. your iPhone charger\nB. your hair brush\nC. your hat\nD. your shoes",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A tiny spark grows and the result tears through an area of nature and spreads through the mountains, consuming\nA. bark and canopies\nB. a crystal lake\nC. a snowy mountaintop\nD. a small bird",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "That which is alive is made of cells such as\nA. rocks\nB. dirt\nC. water\nD. grapes",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The floating arrow on a compass points in the direction of where a group of hikers came from.  In which direction are the hikers hiking?\nA. south\nB. west\nC. east\nD. north",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of reproduction is\nA. sleeping\nB. mestrual vessel releasing\nC. skipping\nD. snacking",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Two parakeets, each in a separate house, each in a windowless room, may share information through\nA. squawks\nB. shrugs\nC. seeds\nD. notes",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if two things seemingly come closer together without a person interfering, which of these is likely?\nA. the objects are possessed\nB. the objects could have magnetic properties\nC. the sun is rising\nD. all of these",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When a forested area receives very little rain, the tall plants in that area\nA. shoot up in height\nB. learn to drink saltwater\nC. grow so much stronger\nD. show thinner age markings",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which relationship is likely true?\nA. sharks eat seaweed\nB. cats eat grass\nC. dogs eat light\nD. ospreys eat perch",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which likely has an electrical conductor that sends sensation through an organism?\nA. rock\nB. ice\nC. shrew\nD. tree",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a plant is in an environment with a lot of oxygen, and then oxygen levels very slightly drop, the plant will\nA. understand\nB. sour\nC. calibrate\nD. pray",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What causes flooding?\nA. dryness\nB. droughts\nC. sunlight\nD. deluges",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An animal that clucks has\nA. four legs\nB. fur\nC. teeth\nD. wings",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "On a summer day, a dog stuck outside will\nA. be dripping with sweat\nB. lick at the window\nC. appear to be smiling with its mouth open\nD. curl up somewhere and shiver",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Wind blowing southwest at high speeds can, when interacting with a car moving southwest at high speeds,\nA. break the car's speed\nB. stall the car's speed\nC. slow the car's speed\nD. heighten the car's speed",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Desalinating water from the ocean does what to nearby fish?\nA. helps them out\nB. makes habitat nicer\nC. gives them money\nD. demolishes habitat",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The thing that is shared between birds, people, snakes, and sharks is that they\nA. defecate\nB. eat beans\nC. pray\nD. lay eggs",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "he sun rising and setting causes cycles of\nA. evolution\nB. available luminance\nC. dancing\nD. cooking",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following prolongs combustion?\nA. fire extinguishers\nB. water\nC. smothering\nD. candle wax",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A boy is playing with his toy boat in his wading pool. His mother comes along and sprays more water into the pool.\nA. the boat flies\nB. the boat swims\nC. the boat drowns\nD. the boat rises",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Seals which return to where they were born display reproductive behavior by using that space to\nA. hunt squirrel\nB. retrieve eggs\nC. birth young\nD. kill birds",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A fan pushes air with\nA. forks\nB. straw\nC. rotating flat surface\nD. lumber",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Feeling sweaty is normal on the ocean because\nA. the desert is drier\nB. the ocean is wet\nC. there is more moisture in the air\nD. the moisture is higher up",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A splash in the pool caused the water to move\nA. in the nearby river\nB. outside of the pool\nC. in another nearby pool\nD. on the other side of the pool",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What would you likely notice the taste of?\nA. ice\nB. tropical twist\nC. water\nD. air",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A being may have more of a chance of survival if it can\nA. dance like people are looking\nB. climb up to tall places\nC. hang out in large, loud groups\nD. skateboard for long periods of time",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The more cereal people consume the more we will need to plant\nA. corn\nB. gravy\nC. milk\nD. tomatoes",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person playing a song on a string instrument makes strings\nA. mold\nB. bawl\nC. tear\nD. shudder",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of adaption is\nA. Eating tacos\nB. wearing sunblock\nC. Reading a book\nD. Drinking water",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The earth makes its way around the sun. Because of the constant rotation, the appearance of these is unlikely to be regular.\nA. the moon\nB. the oceans\nC. celestial bodies\nD. the sun",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a dam is torn down, the beavers will\nA. play\nB. relocate\nC. weep\nD. reconsider",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is more likely to create sound?\nA. Someone making their hand vibrate really quickly\nB. Someone holding a violin\nC. An owl soaring overhead\nD. Someone dragging a bow on a string",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which would be a learned trait?\nA. skin color\nB. nose shape\nC. hair color\nD. favorite cookie variety",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What to humans do that causes animals to lose their habitats?\nA. make apartments\nB. take walks\nC. sing songs\nD. eat corn",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What activity is a part of the wheel of organic life?\nA. having sex\nB. black holes\nC. nuclear meltdowns\nD. supernova",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When car is close to the runner the illumination of the motorized entity is at a higher level because?\nA. moons gravity\nB. motion\nC. it is closer\nD. sun rotation",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is reading a map and gets frustrated. The map ends up in a hundred scraps on the floor because the person\nA. drowned it\nB. burned it\nC. ripped it\nD. forgot it",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "a typical rabbit diet includes\nA. crickets\nB. mice\nC. fish\nD. weeds",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Special plant tissues transport what throughout the plant?\nA. dirt\nB. manganese\nC. animals\nD. rage",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person wants to know how fast winds will be going this week. They buy a device made of metal and\nA. place it outside next to the chimney\nB. place it in the basement of their house\nC. place it on the ground outdoors\nD. leave it in the car overnight",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which would an ecologically minded individual most support?\nA. oil\nB. gas\nC. fracking\nD. windmills",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "which of these could be measured in mL?\nA. circumference of a head\nB. the contents of a wine jar\nC. the length of a pen\nD. the width of a window",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where would a greenhouse best be used?\nA. Bahamas\nB. Nebraska\nC. Florida\nD. Mexico",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which likely increased atmospheric CO2 recently?\nA. sustainable fisheries\nB. electric cars\nC. motorcycles\nD. ant populations",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Explosions can cause harm to what?\nA. clouds\nB. radio waves\nC. ground crawlers\nD. airflow",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "By picking up polypropylene we can make our ecosystem\nA. ugly\nB. worse\nC. dead\nD. better",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is likely to eat berries?\nA. a sparrow\nB. a lobster\nC. a tiger\nD. a walrus",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A pack of wolves eat the sheep before a grizzly bear can get to them, what have the wolves done to the bear?\nA. out competed\nB. out lasted\nC. out ran\nD. out lived",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Using a menstrual cup instead of pads or tampons can help avoid\nA. pills\nB. waste\nC. blood\nD. flu",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Why might wolves a new area where a lot of deer live?\nA. The wolves eat the same things that the deer eat\nB. They wanted to be friends with the deer.\nC. The wolves stay near the deer for protection\nD. The wolves use the deer for nutrition",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When the game console's power cable was attached to the wall, electricity ended up in\nA. the plug\nB. the power cable\nC. the wall\nD. the game console",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What rotates on its axis?\nA. oceans\nB. winds\nC. blue world\nD. people",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An animal is likely to be negatively impacted by food with\nA. animals\nB. fungi\nC. water\nD. plants",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person with a vitamin D deficiency who is allergic to sunlight could\nA. look at pictures\nB. drink more water\nC. bathe more often\nD. eat more cheese",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The doorbell was pushed, but sound failed to emit. What might cause this?\nA. atmospheric pressure\nB. Batteries dead\nC. storm\nD. temperature",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "With the addition of thrusters your forward momentum will\nA. stop\nB. increase\nC. decrease\nD. stall",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Soil quality is improved when\nA. rain water floods the land\nB. organisms pass and rot away\nC. small trees sprout up\nD. microscopic insects infest the landscape",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is an example of solid matter\nA. an egg in a carton\nB. molten copper in a vat\nC. water in a glass\nD. mercury in a thermometer",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "This object in your pocket is the most likely to shock you\nA. your phone\nB. your credit card\nC. your library card\nD. your wallet",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "I have a shirt that is now too small, what can I do to conserve and reuse the fabric?\nA. Walk a runway with it\nB. Use it to protect my body from bullets\nC. Make a new wallet\nD. Track the weather with it",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An inherited characteristic from my dad is\nA. the cat\nB. a building\nC. moles\nD. the bike",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A man plugs his television into an outlet behind a cabinet. He sees that the television may now be turned on so that he can watch his favorite show. The man knows that by hooking the t.v. cord into the outlet\nA. he completed a lap\nB. he made a good deal\nC. he invented new circuits\nD. he completed a circuit",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When syrup is added to vodka, the flammable portion of the mixture will\nA. raise\nB. fall\nC. sink\nD. settle",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Phase changing occurs when\nA. water is poured into a glass\nB. cake is left to cool on the counter\nC. jello mix is refrigerated\nD. turkey is sliced into pieces",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Falcons reside best in\nA. volcanoes\nB. Scottish moors\nC. tar pits\nD. ocean trenches",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Two wheeled conveyances are held together by\nA. helically ridged pins\nB. tape\nC. glue\nD. gum",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If water gets _____, it may cause a chemical reaction\nA. hotter\nB. empty\nC. air\nD. afraid",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A shark will generally avoid eating fish that\nA. they are symbiotic with\nB. are their main prey\nC. are already bleeding out\nD. they like the taste of",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of an electric insulator could be\nA. magic\nB. orange juice\nC. tupperware\nD. milk",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is likely true of hurricanes?\nA. a category 50 hurricane becomes a category 1 hurricane over land\nB. a category 5 hurricane becomes a category 11 hurricane over land\nC. a category 5 dies over land\nD. a category 0 hurricane becomes a category 1 hurricane over land",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "what process is adulthood categorized under?\nA. the living term\nB. a plant feeding\nC. the entertainment circuit\nD. a chemical reaction",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where would you most likely find a full-grown Thorius adelos?\nA. water\nB. forest\nC. ocean\nD. sky",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person can charge something which passes energy through it by\nA. reaching forward\nB. looking at it\nC. swiping left\nD. hooking it up",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Some people put metal tags on their dog's collars, because in darkness, these collars can\nA. melt wax\nB. reflect light\nC. read books\nD. stain clothes",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is correct?\nA. The earth's strong gravitational pull causes a waxing gibbous to form\nB. astrology causes a waxing gibbous to form\nC. star maps cause a waxing gibbous to form\nD. government satellites cause a waxing gibbous to form",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What could be a conductor of energy?\nA. a nickel\nB. carrots\nC. wood\nD. cotton",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What requires warmth for survival?\nA. the moon\nB. an ocean\nC. a bloodhound\nD. a computer",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if two students of equal strength pull a double sided cup in opposite directions, what will happen?\nA. the cup will remain stationary\nB. the one on the right will have it\nC. the cup will change color\nD. the one on the left will take it",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Ice made from which kind of water would melt when the others stay frozen?\nA. river water\nB. swamp water\nC. lake water\nD. coastal water",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Worms are excellent decomposers because\nA. they eat a lot of rot\nB. worms eat dead bodies\nC. they enjoy eating carcasses and expel waste back to earth\nD. worms enjoy eating dirt and decay",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Bringing a stray cat to your home to live will be hard for it at first, but since animals adapt, it will\nA. fly away\nB. go to space\nC. get acclimated\nD. breathe underwater",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if a person takes in more food than their body needs at the time, what happens?\nA. they will become smarter\nB. they will become tubbier\nC. they will become lighter\nD. they will become shorter",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "To look at an eclipse you might be able to use\nA. nothing\nB. telescope\nC. Plain old sunglasses\nD. a box",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which object would have more tightly packed matter\nA. gold\nB. gas\nC. wood\nD. water",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A hurricane over and near water will be strong, and as it travels further from the sea it\nA. explodes\nB. expands\nC. dies down\nD. grows",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Deserts are in extremely dry environments, so liquids will naturally be\nA. rainbow\nB. plentiful\nC. meager\nD. talented",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is able to create its own nourishment from sunlight?\nA. roses\nB. deer\nC. rainbows\nD. water buffalo",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A creature that completely goes unnoticed and unseen against a mottled leaf backdrop is probably\nA. indoors\nB. glowing\nC. neon\nD. matching",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Kettles are lakes which are formed when chunks of glaciers\nA. freeze\nB. drown\nC. float\nD. dissipate",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "More sunlight will be absorbed by\nA. a plant with curled leaves\nB. a tree with wide, smooth leaves\nC. a rose with tiny leaves\nD. a berry bush with thin, short leaves",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Animals you see on the way to work or school, every animal on Earth does what?\nA. squacks\nB. cries\nC. swims\nD. intakes air",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A sandbar is in the shallow portion of water where\nA. water is bloody\nB. water is harder\nC. water is falling\nD. water adjusts things",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When a vegetative organism lifeform goes into a state of creating a life from itself, what is it called?\nA. dispersing reproduction units\nB. painting\nC. seed harvest\nD. hibernation",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What would you measure in a graduated cylinder?\nA. nitrogen\nB. Perfume\nC. Oxygen\nD. helium",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The volume of water in a pond could increase if\nA. the water drains out of the pond\nB. a large flock of ducks visits the pond\nC. people swim in the pond\nD. there is stormy weather",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is the most sensible reason why a stove is often just white?\nA. it scatters all photons away from it without absorbing any\nB. a chef specified white makes food cook better\nC. it was black until someone scrubbed all the blood off it and it turned white\nD. confining a stove to any specific color is color-shaming and indicates white  privilege",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Thunder clouds are\nA. filled with beautiful music\nB. of a significant weight\nC. the color light pink\nD. take 10 years to form",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The running of the bulls in mexico is a source of what type of energy for the object?\nA. running of bulls\nB. solar power\nC. animals\nD. kinetic",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which changes the environment?\nA. backyard vegetable garden\nB. television signals\nC. vacuuming carpet\nD. taking a nap",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "treating water is used to remove harmful substances before what?\nA. emptying\nB. guzzling\nC. evaporating\nD. disposing",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When sugar is added to water, it blends in such as in which drink?\nA. milk\nB. lemonade\nC. juice\nD. tea",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Earlier in their lives many amphibians ate\nA. meat\nB. flies\nC. beetles\nD. algae",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "All the water vanishes from a small depression basked in sunlight on a paved road because of\nA. freezing\nB. evaporation\nC. condensation\nD. precipitation",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Echolocation is when animals detect objects by hearing echos using what?\nA. smell\nB. vision\nC. sight\nD. screeching",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A koala's home can be destroyed because of\nA. affection\nB. magic\nC. my heart\nD. exploding hot liquid",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A ruler is used for measuring the length of what?\nA. distance between cities\nB. air\nC. stuff\nD. motivation",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "To help your body repair cells\nA. eat chicken\nB. chew gum\nC. eat raw sugar\nD. drink soda",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person may source warmth from\nA. embers\nB. flowers\nC. rain\nD. ice",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Despite what some think, instead  around themselves, our planet spins around\nA. pluto\nB. the moon\nC. the milky way\nD. the sun",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Photosynthesis features\nA. single celled organisms\nB. humans\nC. cats\nD. fish",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a park becomes more and more arid, the animals there will probably\nA. start increasing in population\nB. have more food available\nC. have less to drink\nD. start becoming more friendly",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A badger is birthed with behaviors that are\nA. learned\nB. found\nC. intuitive\nD. useless",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "with which could you tell the exact size of an object?\nA. a plain stick with irregular shape\nB. a plastic tape with graduated markings\nC. a thermometer with mercury in it\nD. a metal cooking spoon",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "I left a statue outside  away from water for 100 years, when I come back it is significantly smaller, why?\nA. The Wind\nB. Birds\nC. Tiny Trolls\nD. Ants",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A quartz crystal is a transparent\nA. magic producer\nB. power source\nC. deodorant\nD. hexagon",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "After the moon phase where you can see nothing of the moon, what comes next?\nA. the full moon\nB. the last quarter\nC. the first quarter\nD. the half moon",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A woman wants to make sure that she can physically look back over memories of a day, as they progress, whenever she wants, so she\nA. brings a phone\nB. brings a camera\nC. brings a book\nD. brings a lunch",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Aside from plants, lizards also eat bugs for\nA. singing\nB. crying\nC. nothing\nD. sustenance",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "melting ice may be formed by\nA. the moon\nB. temp change\nC. an iceberg\nD. a reaction",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person eats some berries in them while camping in one location. In another location, miles away, they defecate outdoors. A result of this is\nA. seeds dying\nB. berry pips relocating\nC. crows hoarding\nD. people coughing",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A guy wants to be able to remember the evening. He can be sure that he has a visual and audio backup of the night by\nA. bringing his camera\nB. bringing his son\nC. bringing a drink\nD. bringing a chair",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "two females are incapable of\nA. conjuring kin\nB. talk\nC. dance\nD. jog together",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "something in a cold place becomes what?\nA. warmish\nB. toasty\nC. hot\nD. chilly",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person avoiding UV rays would\nA. gather seashells at the beach\nB. sunbathe in their yard\nC. dig a trench outdoors\nD. close their bedroom blinds",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What covers over 90% of the Earth's surface and 0% of the moon's surface\nA. a magnesium iron silicate mineral\nB. chemical element with the symbol S\nC. the element with the symbol Fe\nD. that which contains 2 hydrogen and 1 oxygen molecules",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a lake is fully drained and evaporated, then the lake will\nA. be full\nB. be gone\nC. be moist\nD. be wet",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Who famously explicated the science of dropping something?\nA. Galileo\nB. Newton\nC. Einstein\nD. Rutherford",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Plants may use leaves, especially waxy ones, in order to\nA. create a way to grow\nB. collect and hold on to dampness\nC. store food for themselves\nD. water themselves in droughts",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is more likely to have caused pollution in the air?\nA. it developed on its own\nB. a hurricane\nC. an action by a business\nD. a flock of birds",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What does water taste like after a substance is dissolved in it?\nA. watery\nB. the same\nC. similar to object\nD. full of life",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of conservation is\nA. jogging\nB. reducing ethanol use\nC. hiking\nD. raking leaves",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a kitten is unable to nurse from birth\nA. it will expire\nB. sleep\nC. decide to leave\nD. it will laugh",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "the night sky shows very far away what\nA. clumps of flaming gas\nB. tidal waves washing over beaches\nC. party balloons tied to houses\nD. aircraft falling towards collision",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a thing has a good impact on nature, it is most likely\nA. putting plastics in special containers\nB. burning old used tires\nC. putting cigarettes out in ponds\nD. using aerosol air fresheners",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A landslide may bring immense problems to\nA. living regions\nB. Jupiter\nC. space\nD. time travel",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Convection is caused by uneven what?\nA. freezing\nB. warmness distribution\nC. frosting\nD. icing",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A puppy was uneducated on how to go through a doggy door until\nA. the mom did it\nB. it read how to\nC. it went to school\nD. it made a plan",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a thing is living, it will require\nA. noxious foods for illness\nB. energetic mutation of limbs\nC. a source of happiness\nD. a source of nutriment",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The arctic environment mostly reflects all colors from the closest star because\nA. it's covered in prisms\nB. it's covered in white precipitation\nC. it's always raining there\nD. the ground is completely covered with white animals",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which likely completes a circuit?\nA. a bird's eye\nB. a dog's paw\nC. a wooden ruler\nD. your phone's keys",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A rainy day leaves a lot of moisture in the air and rainbows occur\nA. when light is burned\nB. when light proceeds through\nC. when light is black\nD. when light is dim",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where would the amount of water decrease most?\nA. under clear skies\nB. in the clouds\nC. during a storm\nD. indoors",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A place without a sand bar is indicative of which of these characteristics?\nA. a flow of sedimentation to settle\nB. a stacking of silty sediments\nC. a downstream movement without sediments\nD. a rapid movement of sediments for downward deposit",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A thing needs to be placed on a balance in order to determine\nA. hunger\nB. shape\nC. pressure\nD. age",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The organ most made of muscle is the\nA. one pumping blood\nB. brain\nC. liver\nD. kidney",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What requires energy for growth?\nA. a car\nB. a hippopotamus\nC. a house\nD. a desk",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Wide tree rings mean\nA. happiness\nB. thriving\nC. money\nD. magic",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "One way to see how a plant stem works could be\nA. eating the plant entirely\nB. putting the stems in food colouring\nC. throwing the plants away\nD. pulling out the petals",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a thing is a producer of pollen and seeds, it may be located in\nA. a cabinet\nB. a bag\nC. a microwave\nD. a vase",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following would be part of the water cycle?\nA. Breaking ice up into pieces.\nB. Filling a swimming pool\nC. A lake forming a cloud\nD. Irrigating a corn crop",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If you place a piece of paper on a hot object it will leave a\nA. damp spot\nB. a curl\nC. some ice\nD. a singe mark",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Shedding is when an animal?\nA. gets rid of its winter coat\nB. grows taller\nC. speaks at a higher volume\nD. eats its food",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is nonmagnetic?\nA. nail\nB. washing machine\nC. traffic cone\nD. refrigerator",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a thing changes through a chemical process, it will have different and new chemical properties, such as\nA. adding cats to a home\nB. adding cream to tile\nC. adding lemon juice to milk\nD. adding salt to sand",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When ice is heated in a pan to 100 degrees Fahrenheit it will melt and then\nA. be agitated\nB. refreeze\nC. spin\nD. do nothing",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is decomposed in decomposition?\nA. lifeless life forms\nB. living creatures\nC. metals\nD. plastics",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A thing which has a texture may have that texture observed by an eyeless creature through\nA. contact\nB. sight\nC. smell\nD. sound",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If you want to study a flower closely, use\nA. an enlarger\nB. a fork\nC. a mirror\nD. a telescope",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A team has pizza after a game, and they eat most of it, but leave the rest of the pizza out. The pizza is later inedible because of\nA. need to play games\nB. bedtime coming sooner than thought\nC. lack of food preservation\nD. exhaustion from the sun",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A plane takes off from the ground, lights blazing, and flies into the sky. As the plane ascends and travels to its destination,\nA. the lights are brighter\nB. the lights appear duller\nC. the lights are closer\nD. the lights are bigger",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of camouflage could be\nA. Cleaning make up off my face\nB. Going naked outside on a rainy day\nC. A sting ray covering itself in sand\nD. Baking a cake for a birthday",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Make sure to protect your eyes when working with chemicals because they can easily do what if handled wrong\nA. nothing\nB. fly\nC. run away\nD. spatter upward",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When geese migrate in the late summer or early autumn, they\nA. head to less snowy areas\nB. prefer to visit florida\nC. take a scenic route\nD. travel in small groups",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When rain falls for two solid weeks, flooding will be evident\nA. at the middle of a mountain\nB. inside of the mountain\nC. at the base of a mountain\nD. at the top of a mountain",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if a person wanted some mineral graphite, where might they likely find some?\nA. in the potato bread for breakfast\nB. in a pencil for drawing class\nC. in the vanilla ice cream\nD. in the flower of a plant",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The everglades where nearly wiped out by\nA. the sun\nB. builders\nC. sea cows\nD. alligators",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a thing is going to be a planet, it must orbit in a certain amount of time, which can exclude\nA. mercury\nB. the ninth planet\nC. the third planet\nD. venus",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of these places is worst for growing oregano?\nA. field\nB. farm\nC. greenhouse\nD. cave",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A puddle after a rain will eventually\nA. leave to town\nB. jump for joy\nC. recede from warmth\nD. burn with acid",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A ball can be moved by force when\nA. a dog sees\nB. a ball sits\nC. a child notices\nD. a foot exerts",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A fixed wing aircraft can fly\nA. high in space\nB. in the troposphere\nC. inside an amoeba\nD. deep underwater",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Rain can damage\nA. happiness\nB. the carpet\nC. love\nD. Space",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following would be seen outside of the ocean?\nA. a seahorse\nB. an angler fish\nC. a frog\nD. a shark",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if a student asked a teacher about the size of a certain item, what could be an indicator?\nA. the volume of the item\nB. the color of the item\nC. the luster of the item\nD. the depth of the item",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A shout is made into the night sky and carries\nA. a paper bag\nB. a baby\nC. a stick\nD. on the gales",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When would the mail least likely arrive?\nA. blizzard conditions\nB. snow\nC. sleet\nD. rain",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If you are having trouble seeing the TV, what can you do to see it more clearly?\nA. closing your eyes\nB. moving closer\nC. eating\nD. dying",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A deer would prefer to eat\nA. Metal\nB. Cucumbers\nC. Pigs\nD. Chalk",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Environments like the rain forest have such an abundance of flowers and plants due to the amount of what, which is needed for vegetation to thrive?\nA. Sunlight\nB. water\nC. Animals\nD. people",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Every 1440 minutes\nA. the moon is full\nB. there's a lunar eclipse\nC. a new year starts\nD. the sun sets in the west",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Salamanders might be found under\nA. garden statues\nB. spaceships\nC. business suits\nD. love",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Extinction is the term for an organism which..?\nA. Small Population\nB. Zero Population\nC. Limited population\nD. Decreasing Population",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Some lizards can live in\nA. environments lacking oxygen\nB. moisture deficient environments\nC. zero gravity environments\nD. food barren environments",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a fuel is a biofuel, it may be\nA. water\nB. corn\nC. sunlight\nD. oil",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A pulley is used to lift what on a flagpole?\nA. banner\nB. thermometer\nC. plants\nD. food",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which part of a pencil comes most directly from rocks?\nA. eraser\nB. logo\nC. the middle\nD. wood",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Water will become vapor quicker in\nA. Jupiter\nB. Earth\nC. Mercury\nD. Neptune",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The movement of lava might be compared to that of a\nA. sloth\nB. Cheetah\nC. Sail fish\nD. Spaceship",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "You would use a lever to move a\nA. feather\nB. grain of sand\nC. drop of water\nD. safe",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which item can help someone who is trying to conserve?\nA. a plastic fork\nB. a paper towel\nC. a shipping box\nD. a menstrual cup",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of adapting to survive is\nA. Putting on sunscreen in a sunny place\nB. Growing grass in a field\nC. Having a drink of water on a warm day\nD. Going for a walk outside",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Some birds live in\nA. volcanoes that are erupting\nB. several planets in the solar system\nC. caves found under water\nD. large area dominated by trees",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A ficus can help respiration because it:\nA. absorbs oxygen\nB. releases oxygen\nC. absorbs helium\nD. releases carbon dioxide",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A rock quarry can contain in its rocks\nA. sunflowers\nB. foil material\nC. candles\nD. broken toys",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The removal of trees may cause damage to ecosystems such as\nA. cities\nB. jungles\nC. fields\nD. oceans",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A foot uses force on spheres in\nA. baseball\nB. kickball\nC. golf\nD. hockey",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is wondering how much the steam from the pot of water that is boiling will measure. They are able to measure it in a definite way by\nA. making the liquid condense outdoors\nB. remembering how big steam clouds are\nC. burning the hot steam\nD. collecting the condensed liquid",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "One way to retain your own thermal energy is to\nA. sit in snow\nB. wear fluffy socks\nC. sleep in freezers\nD. bathe in ice",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If soil is loose, it makes it what for oxygen to get in?\nA. seven\nB. boring\nC. harder\nD. simpler",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Molecular bounds are broken by\nA. ice\nB. combining vulotile ingredients\nC. soap and water\nD. force",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Why is that tulip red?\nA. it's embarrassed\nB. it's really yellow\nC. it's sick\nD. genetics",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "transpiration happens in the leaves of what?\nA. rocks\nB. shrubbery\nC. cars\nD. animals",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Rock that has been metamorphosed will have potentially withstood this to get to that point\nA. old trees\nB. small mice\nC. large exertions\nD. big sneezes",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of a living thing needing respiration in order to efficiently use energy is\nA. a paper clip pile\nB. a murder of crows\nC. a large elephant statue\nD. a sunny park bench",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "as dryness increases in an environment, biodiversity\nA. increases\nB. decreases\nC. stays the same\nD. begins",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If something breathes, it\nA. uses unusable byproduct\nB. lives in trash\nC. scraps unusable byproduct\nD. moves around frequently",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A specific plant is found\nA. in some areas\nB. in outer space\nC. nowhere\nD. in all areas",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Bears will always have longer life cycles than a\nA. tortoises\nB. whales\nC. elephants\nD. fox",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Meadow vales are\nA. carnivores\nB. hard of hearing\nC. very large\nD. potatoes",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which has a positive impact on the environment in the world?\nA. building large numbers of cars\nB. contaminating the ground with poisonous substances\nC. dumping toxic waste in ocean\nD. making sure trash is reused for new purposes",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The lights were turned off in a room, who could find the light switch?\nA. Mice\nB. Elephants\nC. Raccoons\nD. Hamsters",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A child smacks another child, causing hurt, which causes the smacked child to\nA. play\nB. eat\nC. rejoice\nD. sob",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A quick way to adjust the formation of portions of the crust of the earth is for it to\nA. experience trembling\nB. make believe\nC. fall down\nD. fly away",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A new island springs up out of the ocean after only a couple of years of\nA. underwater buildup\nB. animal testing\nC. volcanic movies\nD. millionaire ideas",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "diamonds exist because of the existence of\nA. raw carbon\nB. work force\nC. plant feeding\nD. machines",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A cloud could form in a home if the conditions were right and steam could\nA. gather\nB. file\nC. burn\nD. stem",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is an example of electrical insulation?\nA. Ethernet cables\nB. stove burners\nC. movie cameras\nD. air conditioning",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which state would receive the least amount of rainfall?\nA. Oregon\nB. New York\nC. Florida\nD. Arizona",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Large metropolises can have a huge bedbug\nA. sport team\nB. water bill\nC. dating pool\nD. infestation",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a living being will make it to adulthood, then the most important thing to it will be\nA. talons\nB. mining\nC. edibles\nD. hotels",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A reason there is so much debris and damage during tornadoes is due to rocks that are getting\nA. broken apart\nB. eaten\nC. evaporated\nD. stolen",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Scientists suggest that, due to human activities, earth has lost waterways and about half of its original forest lands, endangering many animals and plants in their natural living spaces. However, human activity seems to benefit some living things, such as\nA. rats and roaches\nB. saunas and pools\nC. new phone numbers\nD. cotton clothing",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If I hear about a warm front I can expect to bring what with me to work?\nA. time traveling\nB. candles\nC. an umbrella\nD. a wagon",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A bat may use echolocation to\nA. the grocery store\nB. call a friend\nC. track a moth\nD. a concert",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following would be considered nonliving?\nA. a hair still on your head\nB. a rabbit hopping along\nC. a fallen palm leaf\nD. a human jogging down a track",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Roads need repaved in spring because\nA. they are cold\nB. road need it\nC. they are lumpy\nD. ice ruins them",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Because a logging company has been working here the area has more\nA. calcium\nB. rust\nC. carbon\nD. silicon",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "There is a growing movement to harness the power of wind in order to\nA. power rangers\nB. nothing\nC. heat our homes\nD. eat cookies",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A bee may be vital for\nA. time travel\nB. metal\nC. cars\nD. basil",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A storm moving over the earth will dump more rain on a\nA. arctic\nB. desert\nC. meadow\nD. sandy area",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Neodymium can hold a car without being in it's\nA. proximity\nB. relocation services\nC. talking\nD. seeing each other",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The past week has been warm, humid and foggy. As the weather is supposed to cool a little bit tomorrow, a reasonable person could assume that tomorrow will be\nA. rainy\nB. clear\nC. hot\nD. steamy",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An indian hawthorn that has received more water will usually be\nA. taller\nB. older\nC. less healthy\nD. colder",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Deserts are generally\nA. sweltering\nB. cold\nC. tepid\nD. frigid",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Some pupa may\nA. Use wet towels\nB. never happen\nC. go into sand\nD. Eat candy",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Comparing an arid acre to a jungle acre, the jungle acre will host\nA. less moisture\nB. excesses of moisture\nC. fewer water droplets\nD. less fluid",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The size of eyes matter relevant to sight and sight ability, given that\nA. elephants see better than ants\nB. wolves see better than giraffe\nC. people see better than dogs\nD. dogs see better than cats",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "the inability of a once breathing organism to function can be described as?\nA. a state of the union\nB. a state of activity\nC. a state of agility\nD. a state of being dead",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Heat and moisture in the ocean is a good recipe for\nA. a violent storm\nB. violent sea animals\nC. condensation\nD. inland storms",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is the proper ratio of weeks to the Earth's revolution around the Sun?\nA. 365 :: 1\nB. 52 :: 1\nC. 33 :: 1\nD. 1 :: 1",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a room is going to be humid, or dry, depends on how much water vapor is in the air, so if a room wants to be humid\nA. run a bath\nB. use a dehumidifier\nC. open a window\nD. hope it rains",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a person is going to be in an area with acid rain, the organs in the body can be unharmed because of\nA. outer organ protection\nB. being given immunity\nC. using sunscreen\nD. taking vitamins",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What causes direct damage to the lungs?\nA. drinking alcohol\nB. consuming ignited tobacco\nC. eating feces\nD. swimming",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A kumquat is more likely than a steak to have\nA. fluid\nB. seeds\nC. fibers\nD. skin",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Once the egg has hatched a swan has given birth to\nA. a chick\nB. a rock\nC. a human baby\nD. an egg",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of combined substances could be\nA. diamonds\nB. tin\nC. cake\nD. water",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What's usually hot in temperature?\nA. the Sahara\nB. Minnesota\nC. Alaska\nD. corpses",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Chewying and swallowing a steak\nA. serves it hot\nB. breaks it down\nC. losses energy\nD. dies",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "As vehicles become more efficient petro consumption\nA. increases\nB. stops\nC. decreases\nD. stay the same",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A boy is lost in a heavily forested area, and the only help he has is a small compass. He knows that his house is to the south of him, but in the direction he is facing, the arrow on the compass is showing that he is currently walking due north. Therefore, the boy\nA. turns right\nB. turns left\nC. turns around\nD. keeps straight",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A puppy is sitting in a yard and is at the door, asking to come in. A person looks out the door and sees the pup tremble, so the person can tell that\nA. the dog is lonely\nB. the temps have dropped\nC. the puppy is happy\nD. the pup is strong",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Jerry put some salt into some tap water and stirred it up. What has Jerry made?\nA. a solution\nB. a battery\nC. sea water\nD. lemonade",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Vitamin D heals what?\nA. vision\nB. human frame\nC. sadness\nD. brain damage",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is the best thing to do for a neighborhood?\nA. growing local daffodils and weeding\nB. spreading trash and garbage\nC. planting fast spreading plants\nD. introducing a new species",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A coral plant will thrive in\nA. depths\nB. jungles\nC. arctic\nD. shallows",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Pines will continue to grow making them\nA. toxic\nB. endangered\nC. reuseable\nD. shorter",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A pile of iron will\nA. tug devices for locating directions\nB. give false locations to planes\nC. be a huge distraction\nD. cause ships to crash",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Rain storms and blizzards can be very dangerous to drive in due to the amount of precipitation they produce, which will do what to the roads visibility?\nA. make it worse\nB. Make it tasty\nC. make it better\nD. make it hot",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a bird is moving through the sky, someone wanting to know the speed would\nA. speedily enjoy viewing\nB. observe quickness\nC. watch slowly\nD. look away",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which sustains life yet stopped growing?\nA. air\nB. a bush\nC. a rock\nD. a felled tree",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A woman is digging under a tree on a tall mountain. She is looking for interesting rocks, and a foot down into the soil, discovers a fossilized fish skeleton. From this discovery, the woman is able to determine that\nA. the mountain used to be underwater\nB. some bears in mountains eat fish\nC. some fish can climb mountains\nD. sometimes rain can move fish to high spaces",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Friction is used to stop what using brakes?\nA. dogs\nB. birds\nC. pickups\nD. car toys",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Losing which of these would make it hard for a wolf to satisfy hunger?\nA. tail\nB. eyebrow\nC. eyelash\nD. snout",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "All the plants in an area have died from a fire. Why would carnivores like foxes be less abundant as a result?\nA. the wolves left the area\nB. the foxes were bored without any live trees to climb\nC. the foxes normally eat only plants\nD. the rabbits and mice in the area needed the plants",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of these things is absolutely required in order to notice a bat flying towards you?\nA. a hand and an arm\nB. eyes and reflected sunlight\nC. dogs and scared cats\nD. a nose and eyebrows",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of camouflage could be\nA. Baking a cake for a birthday\nB. A sting ray covering itself in sand\nC. Cleaning make up off my face\nD. Going naked outside on a rainy day",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is decomposed in decomposition?\nA. living creatures\nB. lifeless life forms\nC. plastics\nD. metals",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Retinas can have light fall on them when\nA. pupils are open\nB. rooms are dark\nC. eyes are closed\nD. lights are off",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is more accurate?\nA. an ant gets food from photosynthesis\nB. a dog gets food from photosynthesis\nC. a gorilla gets food from photosynthesis\nD. a palm tree gets food from photosynthesis",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A change on our planet could be\nA. cats eating mice\nB. forests becoming lakes\nC. clouds raining\nD. deer running",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "All things which are alive will require this at some point or at many points during its existence:\nA. coats\nB. droplets\nC. sand\nD. bugs",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is likely to occur as leaves fall off the trees and food becomes less plentiful?\nA. a hare grows longer fur\nB. a worm grows longer fur\nC. a worm sings louder\nD. a hare sings louder",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A young boy is reprimanded by his mother for sleeping with his heavy blankets over his head. His mother is worried that if the boy continues to sleep like that, he will suffocate. This is because\nA. beds can cause issues with breathing\nB. breathing at night is deadly\nC. CO2 in large amounts is fatal\nD. CO2 can be ambivalent",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Geese fly south for the winter because\nA. they miss relatives\nB. of a vacation\nC. their following orders\nD. of instinct",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Frozen steak which has been in the sun all day will\nA. defrost\nB. freeze\nC. give birth\nD. become sentient",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If I wanted to build endurance I could\nA. cycling to Publix\nB. eat more food\nC. sleep all day\nD. only eat pizza",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A compass arrow points north, to the right of a person. If the person wants to go west, the would\nA. turn around\nB. go straight\nC. go left\nD. go right",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is likely to have a means to transport water from the dirt to the rest of its body?\nA. the cows that humans eat\nB. the crickets that owls eat\nC. the roses a panda eats\nD. the chicken that cats eat",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "As a Red Giant forms it's gravity will\nA. grow\nB. fluctuate\nC. shrink\nD. reverse",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Stepping in a lake causes\nA. tsunamis\nB. ripples\nC. typhoons\nD. earthquakes",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person can find a sparrow's home by\nA. looking at its face\nB. looking at a detailed map\nC. seeing where it was born\nD. noting where it frequently consumes",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A kid having a preference is something like\nA. he gets bored easily\nB. he likes having dinner\nC. he hates eating peas\nD. he likes blonde girls",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A greenhouse is used to protect plants from what?\nA. nutrients\nB. freezing winds\nC. socializing\nD. fresh air",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "matter in the liquid phase has what shape?\nA. circle\nB. adaptable\nC. triangle\nD. square",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A solid has a fixed shape. When liquid is boiled and turns into gas, its shape is\nA. impermanent\nB. talk\nC. play games\nD. smile",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person notes that the moon goes through various phases and eventually repeats these phases over the course of\nA. every other new month\nB. about six more days\nC. just over a month\nD. just under a month",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A child will only grow if they are provided with\nA. a bed\nB. education\nC. inspiration\nD. energy",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A large crevasse was carved in the western United States over many\nA. glaciers\nB. mountains\nC. rainstorms\nD. years",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "It's easy to be crushed by rocks lounging\nA. near a sloping mountainside\nB. on a frozen pond\nC. on a mall escalator\nD. in the middle of a peaceful cemetery",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Certain species of which type of animal gives live birth?\nA. Lizards\nB. Snakes\nC. Birds\nD. Fish",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which child's plaything is inflated with gas when it's in use?\nA. Nintendo\nB. Miracle Bubble\nC. Bicycle\nD. Sidewalk chalk",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Heavy rains cause flooding which\nA. soak fields\nB. create dams\nC. feed fish\nD. ruin crops",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A kitten is born and a person who is petting it can know that it\nA. broke through shell\nB. was hatched\nC. was an egg\nD. came out breathing",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Humans have the ability to change how much they weigh, but we cannot change how tall we are because that is\nA. expensive\nB. impossible\nC. hereditary\nD. Too hard",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What orbits the earth 13 times per year?\nA. night illuminator\nB. clouds\nC. oceans\nD. moon pictures",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "the cells of golden retrievers can\nA. spontaneously combust\nB. change colors\nC. liquify\nD. specialize",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person will make ethanol out of all aside from\nA. salt\nB. grain\nC. corn\nD. maize",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which would mandate replacing natural resources?\nA. camping\nB. a national park\nC. overlogging\nD. a garden",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "How can you get more song birds to visit your yard?\nA. put out some hamburgers to attract them\nB. adopt some large dogs to stay in the yard\nC. call Here birdy birdy! out the window\nD. hang an open box containing tasty seeds from a tree",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What loosens soil?\nA. iron\nB. boring\nC. metals\nD. sunlight",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "I need electrical energy to\nA. Go running\nB. cook some bread\nC. Ride a bike\nD. Go swimming",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person rescues a small chipmunk and it requires nourishment. The person obtains\nA. cold cuts\nB. turkey legs\nC. tree pips\nD. red sauce",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "More sleep leads to\nA. worst health\nB. restlessness\nC. insomnia\nD. sense of well-being",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When droplets freeze as they assail from high above they become\nA. hurricane\nB. sleet\nC. tornadoes\nD. drizzle",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Two rabbits frequently copulate. The result for the rabbits will likely be\nA. broods\nB. snacks\nC. teeth\nD. burrows",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "which one of these would make a great organic manure later on?\nA. a plastic spoon and fork\nB. a white plastic chair\nC. a family of raccoons\nD. a plastic water bottle",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What have a negative impact on the environment?\nA. plants\nB. trees\nC. recycling\nD. dumpyards",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What can cause light to bounce off an object?\nA. something painted black\nB. surface with aluminium\nC. water condensation\nD. springs and coils",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Glasses help you\nA. fry ants\nB. pay for crimes\nC. remedy eyesight issues\nD. observe Uranus",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What can help you sleep soundly?\nA. torture\nB. anxiety\nC. ear plugs\nD. stress",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "At a campsite one night we all gather round a fire to roast marshmallows; this is an example of\nA. dinner\nB. fusion\nC. maillard reaction\nD. competition",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Materials like ethanol are used to produce electricity by _____.\nA. hydroelectric power\nB. renewable energy\nC. burning\nD. carbon fixation",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A komodo dragon's body temperature would be highest if immersed in\nA. lava\nB. apple juice\nC. liquid nitrogen\nD. water",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Nocturnal predators hunt during when?\nA. sunrise\nB. daylight\nC. sleepy time\nD. summer",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A maglight puts out\nA. a beam\nB. fires\nC. the sun\nD. candles",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person is going to go to the beach and plans on getting some items for swimming, so they buy\nA. wetsuit\nB. canes\nC. bricks\nD. hats",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Newer hybrid cars will have what effect on the gas usage in the world over time?\nA. less\nB. more\nC. more electric\nD. slower cars",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An animal living in an environment lacking in food resources\nA. will be in poor shape\nB. will be thriving and lively\nC. will be switching to a new diet\nD. will hibernate until more food comes along",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "a plant needs this to survive\nA. bugs to eat\nB. liquid food\nC. finger food\nD. nutritional material",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "In a zoo, a polar bear exhibit will contain\nA. salt\nB. cacti\nC. strong fans\nD. sand",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "As Ethanol burns it expels what into the ozone\nA. radiation\nB. lightning\nC. CO2\nD. nitrogen",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Shivering is when an animal creates heat by shaking to keep the body what?\nA. frozen\nB. freezing\nC. cold\nD. agreeable temperature",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A child has a basket of chocolate eggs for breakfast and as a result\nA. sleeps for the afternoon\nB. quietly reads a book\nC. runs around all day\nD. eats seven more eggs",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "See evaporation in action by\nA. leaving two mason jars out with different levels of gatorade\nB. run for city council\nC. take a walk on the sun\nD. become a human bug",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Needing to use an umbrella could be the result of\nA. altercation\nB. precipitation\nC. condensation\nD. evaporation",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When a baseball is hit with a bat the ball particles do what?\nA. Fly\nB. Vibrate\nC. Talk\nD. Roll",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a globe has a range of populace, it likely also has\nA. old babies\nB. varied homes\nC. poisoned blood\nD. teal rabbits",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Bees\nA. make honey from fruit\nB. sell their honey to farmers\nC. manufacture honey from a sweet liquid found in flowers\nD. gather honey from flowers",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?\nA. moon rotation\nB. human planet rotation\nC. moons gravity\nD. global warming",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Poison causes harm to\nA. car engines\nB. televisions\nC. wombats\nD. corpses",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What are sources of shelter for small animals?\nA. andesite\nB. wind\nC. sun\nD. air",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What do herbivores eat\nA. stick bugs\nB. radishes\nC. leaf beetles\nD. sea cucumbers",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Sleet is made of what?\nA. wind\nB. icing\nC. hard h2o\nD. frosting",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Reptiles may actually be\nA. grumpy\nB. brainless\nC. magical\nD. pea brained",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a day is dawning and grass is glistening, then\nA. the night was chilly\nB. the night was hot\nC. the snow is yellow\nD. the yard is burned",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When you scream in an empty room, you hear an echo due to the noise\nA. eating\nB. bouncing a ball\nC. nothing\nD. bouncing off stuff",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Mineral graphite could be found in places such as\nA. happy kittens\nB. pink candles\nC. wild oats\nD. office supplies",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What contributes more, though less than some believe, to the lung damage caused by smoking?\nA. smoking less\nB. switching to chewing\nC. no filters\nD. switching to e-cigs",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Unlike CO2, oxygen is a waste product of\nA. the moon\nB. rocks\nC. cactus\nD. hair",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The Earth's energy creates\nA. Happiness\nB. Love\nC. Anger\nD. a magnetic creation",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Why might a polar bear grow white hair?\nA. blend in\nB. stand out\nC. random\nD. look fancy",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is likely considered soft?\nA. taffy\nB. steel\nC. diamond\nD. hard pretzels",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "High humidity can damage materials which\nA. must remain dry to function\nB. will dry out unless they are soaked in water\nC. depend on abundance amounts of water vapor\nD. need to be kept wet",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A farmer needs to change up his crops. He has planted grains for the last five years. He plants something different this year, so his crop is probably\nA. oats\nB. rice\nC. watermelon\nD. grain",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If things are deposited consistently in dark, cavernous area, then a thing that could develop is\nA. apple juice\nB. a stalactite\nC. road rash\nD. blue jeans",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Clear weather means\nA. rain\nB. zero clouds\nC. snow\nD. big clouds",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Sarah has one piece of wood that is smooth and polished and another that is rough and unfinished. Which of the following is true?\nA. both pieces of wood will create the same amount of friction\nB. the unfinished wood will generate more heat than the other while rubbed over the floor\nC. the rough wood will more easily move when rubbed over the tile than the finished wood.\nD. the finished wood will generate more heat when it is rubbed back and forth over a tile floor.",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a bright thing in the sky that is something other than our Sun does something in just under a month, it is likely\nA. the stars rising\nB. the Sun burning\nC. the air dying\nD. luna cycling",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Jupiter's larger mass and orbit contribute to the formation of this area of debris:\nA. Inner Solar System\nB. Oort Cloud\nC. Kuiper Belt\nD. Asteroid Belt",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Glacier melt\nA. is an effect of too many polar bears\nB. is an effect of an abundance of CO2 in the environment\nC. is an effect of deforestation\nD. is an effect of oxygen saturation",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If an anteater eats an ant, where is that ant contained?\nA. outside the anteater\nB. inside the anteater\nC. in the sky\nD. underground",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Plants brought to the western United States from the eastern United States often die because of\nA. bad planting methods\nB. small spaces\nC. the wrong climate\nD. people kill them",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A compass would be useful to\nA. Captain Planet\nB. captain of industry\nC. sports team captain\nD. Navy captain",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "friction acts to counter the motion of two objects when their surfaces are what?\nA. converging\nB. separated\nC. in vision\nD. apart",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Toy submarines bob up and down when put in a bowl of\nA. rice\nB. vinegar\nC. ice\nD. sand",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Fluids are relocated through a daffodil due to the\nA. ears\nB. eyes\nC. mouth\nD. shoot",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If two hawks find a dead fox, they will\nA. eat\nB. battle\nC. starve\nD. fly",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is the best thing to do for an environment?\nA. growing roses and weeding\nB. introducing a new species\nC. planting trees to replace fallen ones\nD. spreading trash and garbage",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if two equal forces in opposite directions act on an object then that object will stay where?\nA. 360 degrees apart\nB. opposite\nC. split\nD. between them",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Sara sorted her marbles into glass ones and marbles made of crystal. This is an example of\nA. classifying\nB. weighing\nC. clarifying\nD. justifying",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A baby wants to move a ball, so it looks at the ball and it refuses to move. The baby takes its hand and touches the ball and\nA. motion occurs\nB. babies whine\nC. movement stops\nD. people cry",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A puppy has a kink in his tail, but he lacked it yesterday. The puppy ______ a broken tail.\nA. inherited\nB. absorbed\nC. wanted\nD. acquired",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is least likely to happen?\nA. a human goes from teenager to adult\nB. a human goes from child to preteen\nC. a human goes from teenager to child\nD. a human goes from infant to toddler",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Sticking your hand in water above 100 degrees Celsius\nA. will freeze your digits\nB. will lead to scalded fingers\nC. will heal any sores or wounds\nD. will lead to frostbite",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A bear's blubber\nA. enables him to keep his body cozy\nB. enables him to eat more\nC. is useless and a burden to his health\nD. makes it more difficult for the bear to function",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Why do companies heat up milk before they bottle it?\nA. the milk is probably sour\nB. it tastes bad that way\nC. small organisms could make you sick\nD. the cow could get angry",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following is a true statement?\nA. a lizard has warm blood\nB. a python has warm blood\nC. a robin has warm blood\nD. a rock has warm blood",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What will happen to gas once heated?\nA. melting\nB. freezing\nC. ascension\nD. cooling",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When a lake is exposed to enough heat over time\nA. animals leave\nB. it ceases existing\nC. plants dry up\nD. fish grow ill",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Hot tea works better than cold for dissolving\nA. lemons\nB. ice\nC. nuts\nD. rocks",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a house is built using a raw material, it can be built with\nA. ceramic\nB. branches\nC. Styrofoam\nD. tile",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which would increase atmospheric carbon by the lowest degree?\nA. trees\nB. humans\nC. cattle\nD. dogs",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What will happen if more people bike instead of drive cars?\nA. more cars will be bought\nB. more deer will get hit by cars\nC. it will be easier to breathe\nD. less people will ride bikes",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "can a kid with a new binoculars see a friend standing in a distance better or worse?\nA. visibility will be improved\nB. visibility will be compromised\nC. difference will be lacking\nD. all of these",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Clothes fresh out of the laundry are great because they are\nA. darkness\nB. comfort\nC. temperate\nD. wonder",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What can genes do?\nA. Give a young goat hair that looks like its mother's hair\nB. Make a baby chubby\nC. Make a horse break its leg\nD. Attack viruses and bacteria",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following can die if it gets too cold?\nA. iced coffee\nB. snow\nC. bears\nD. Pluto",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is a renewable source?\nA. electricity from coal power plants\nB. oils made from whale blubber\nC. energy from the yellow dwarf star closest to us\nD. gasoline made from fossils",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "H2O allows for the conduction of\nA. electrical potential\nB. land\nC. neurons\nD. people",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What are you unlikely to find in a canyon?\nA. granite\nB. sandstone\nC. squid\nD. limestone",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What requires sunlight to grow?\nA. lakes\nB. deep sea fish\nC. rose bushes\nD. mountains",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When you come across an animal that passed away, it sometimes smells awful because it died recently and has begun to what?\nA. whimper\nB. Rot\nC. die\nD. cook",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The earth receives uneven amounts of UV rays due to\nA. height\nB. distance\nC. it's axis\nD. width",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a tree in your backyard rots away for is knocked over by the wind, you can just\nA. plant another\nB. Draw one\nC. climb one\nD. do nothing",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An example of a chemical reaction might be\nA. a rusty knife\nB. Water\nC. Grass\nD. Smiling",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The mass of ground sliding down an embankment can be propagated by what?\nA. a storm\nB. forest fires\nC. global warming\nD. trees growing",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "All animals need to be what during cold conditions in order to survive?\nA. in space\nB. warm enough\nC. Freezing\nD. lying down",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "what does a cactus do with water\nA. spit it out\nB. make it dirty\nC. keep a cache\nD. filter it",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "In the food chain process fungi have the role of what?\nA. putrefiers\nB. builders\nC. creators\nD. consumers",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is most reliant on nonrenewable resources?\nA. a solar panel\nB. an electric car\nC. an 1800s train\nD. a modern bus",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of the following burns due to wax?\nA. electric kettle\nB. internal combustion engine\nC. tea candle\nD. gas stove",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If members of a species are born then what of the species increases?\nA. food\nB. populace\nC. transportation\nD. deaths",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A wolf would eat\nA. an ibex\nB. a mountain\nC. a tree\nD. a cloud",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A coal mine is what?\nA. a person who mines for coal\nB. a rare type of stone\nC. a place where coal is processed\nD. a mine that is beneath the earth where coal is found",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Overpopulation may result\nA. from the deaths of many organisms\nB. from a boom in reproduction of an organism\nC. from natural predators hunting organisms\nD. from organisms self regulating their population",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Bacteria in the soil feed on\nA. uranium\nB. expired creatures\nC. crowd sourced work\nD. kryptonite",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Wax is on some plant leaves for what purpose?\nA. stay moist for warm weather\nB. keep water available for predators\nC. creation of toxins in the cells\nD. keep the ongoing hydration",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A leaf absorbs sunlight to perform photosynthesis until\nA. a lounge chair obstructs the solar rays\nB. solar lights line a path\nC. solar panels are placed on the roof\nD. solar tea is served in the garden",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A seismometer can note how earthquakes are\nA. small\nB. fast\nC. strong\nD. long",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Hitting a spider web with your hand makes it impossible for a spider to\nA. play music\nB. eat\nC. fly\nD. watch TV",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Ecosystems\nA. are made up of many plants and lack living animals\nB. are communities with a plethora of living beings\nC. only contain animals of the same species\nD. are present only on certain continents",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A large thing that spews out destructive materials can\nA. make babies\nB. eat sandwiches\nC. level planets\nD. create towering hills",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The largest amount of natural illumination will likely occur for a Floridian in\nA. space\nB. june\nC. october\nD. january",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Illness has a negative impact on the health of what?\nA. rocks\nB. bricks\nC. llamas\nD. plastics",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If the trees in an area are growing in soil rich with a certain vitamin, what might happen?\nA. the vitamin would evaporate\nB. the vitamin would leak back into the ground\nC. the trees would mutate and die\nD. the squirrels would have that vitamin in their system",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Seasonal changes happens\nA. when some flowers cease to bloom in the cold months\nB. when ducks swim more in lakes\nC. when fish arise from water and sun themselves\nD. when all flowers bloom in the cold months",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a screwdriver is bought from a high end store known for high quality, it will most likely end up\nA. falling apart quite fast\nB. breaking in half immediately\nC. with rotting wood this week\nD. passed down from parent to child",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which place are we likely to find algae?\nA. white clouds in the sky\nB. a small hidden puddle\nC. an old tall building\nD. a field of grass",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What do white blood cells allow to stay in the body?\nA. viruses\nB. oxygen\nC. parasites\nD. bacteria",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "High areas can be visually represented by:\nA. deep sea\nB. mountains\nC. valleys\nD. basins",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "lizards eat\nA. big dogs\nB. six legged creatures\nC. ears of corn\nD. well done steaks",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which of these supports an item that works together in large numbers and is greater than the sum of its parts?\nA. car\nB. membrane\nC. fire\nD. truck",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Where might you find some animals being held outside of nature?\nA. under the deep sea\nB. up into the sky\nC. deep into the earth\nD. artificial habitats in captivity",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Plants would be unable to stand if they lacked\nA. multiple leaves supported on its torso\nB. gel that form shapes\nC. the ability to flower nightly\nD. tiny structures inside the support",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Poison causes harm to what things?\nA. vibrant\nB. mineral\nC. dead\nD. decaying",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Magnetism\nA. requires full contact between objects\nB. requires objects to touch\nC. can act only on contact\nD. can act without contact between objects",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Locusts historically always affect crops\nA. in the sky\nB. disadvantageously\nC. near water\nD. positively",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Which is true?\nA. glaciers make depressions that water can pool in\nB. lions hunt glaciers in the wild\nC. glaciers are generally high temperature objects\nD. glaciers can change directions rapidly for speed",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Toucans' beaks are for show but also can be used for\nA. toasting\nB. coloring\nC. dancing\nD. skinning fruits",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "To see an example of xylem in work\nA. organize flowers in a bouquet\nB. put a rose in food dye\nC. pull a plant from the root\nD. poor water on a plant",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The Earth spins around and around, and in order to finish one cycle of this spinning\nA. two days must pass\nB. a week must go by\nC. the Earth must slow down\nD. a seventh of a week must pass",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "if a person eats a fruit, it is possible it was once which of these?\nA. none of these\nB. it was a reproduction structure\nC. it was a stone\nD. it was a root",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What can cause objects to repel each other?\nA. fake magnets\nB. smell\nC. identical charges\nD. sunlight",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "as the amount of water received by a plant increases , that plant will usually\nA. form more vegatation\nB. harden like rocks\nC. start singing\nD. fly to space",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a river is rushing southwest on a sunny day, then it is safe to assume that\nA. southwest is a good place to be\nB. the land gently inclines in that direction\nC. the world is mostly land\nD. the land is supple",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "You might recycle plastic by creating\nA. happiness\nB. love\nC. beanies\nD. the sun",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If someone wants to walk towards the magnetic north pole they should\nA. walk to the east\nB. walk parallel to the way their compass is pointing\nC. walk perpendicular to the way a compass is pointing\nD. catch a bus ride",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Lisa was hiking in a rocky area and in a rock, she saw what looked like footprints made by a bird. But weirdly, they were in a rock. Where did they come from?\nA. The footprints were originally in mud or peat, but after a lot of time, the substance had been changed into rock\nB. The rock was actually an asteroid\nC. a very heavy bird made imprints in the rock.\nD. a spaceship used a laser to make the etches in the rock",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "This animal evolved to reproduce using protective containers instead of live little entities:\nA. rhino\nB. hamster\nC. platypus\nD. mongoose",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A good example of a mixture is\nA. dry wood and dry beans\nB. ocean and lake water\nC. rabbits and young hares\nD. old bread and buns",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When food is reduced in the stomach\nA. the mind needs time to digest\nB. take a second to digest what I said\nC. nutrients are being deconstructed\nD. reader's digest is a body of works",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Condensation over night\nA. leads to extremely dry conditions\nB. can lead to slippery grass\nC. causes plants to wilt and die\nD. causes black ice on bridges",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What kind of animal returns to the same beaches each year to give birth?\nA. saltwater crocodile\nB. carnivorous bird\nC. semiaquatic mammal\nD. tiger shark",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A person owns thousands of acres of land and would like to do something great for the environment, so he\nA. limits human access\nB. limits animal access\nC. builds a mall\nD. starts a riot",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What causes erosion?\nA. paper\nB. gales\nC. wood\nD. money",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The amount of transpiration is lower in\nA. summer\nB. fall\nC. winter\nD. spring",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a tree is being discussed and those talking want to know its age, they will\nA. think about it\nB. bury it\nC. look at leaves\nD. look inside it",
+    "output": "The correct answer is D.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "If a cat is given cyanide, it will\nA. expire\nB. cough\nC. puke\nD. eat",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "The location of most C02 is pulled from the air\nA. by greenery\nB. by detectors\nC. by scientists\nD. by people",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Cows only eat what?\nA. flora\nB. animals\nC. water\nD. bugs",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "An organism passes from the world and so it\nA. has croaked\nB. has money\nC. has health\nD. has flown",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A pond that has gallons of water dumped in it daily will\nA. dry\nB. grow\nC. drain\nD. shrink",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Who is likely to receive its coloration and hairy body from its parents?\nA. Peter the Parakeet\nB. Valentina the Vole\nC. Terry the Tuna\nD. Greta the Grouper",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "When the Earth is tilted on its axis, as it always is, certain tilts will make it summer one once continent\nA. and birds fly around the moon\nB. and beans grow on the other side\nC. and another's celebrating Halloween\nD. and a desert on another",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Fish move best through water when their fins are?\nA. Large [Collect]\nB. Long\nC. Small\nD. Short",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Salamanders may be unable to survive in a hot, dry location lacking food and water, but if it has food and water in an ideal location\nA. it is extinguished\nB. it may flourish\nC. it is financed\nD. it may crash",
+    "output": "The correct answer is B.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "Once we use all the aluminum in the world we can get more by\nA. Impossible\nB. Watering the grass\nC. building a dam\nD. Planting soda cans",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "some countries can be in bed and other are in the middle of the day enjoying the outdoors, why?\nA. animals\nB. rotation of sun\nC. planet rotation\nD. ocean tides",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "What is a source of oxygen through photosynthesis?\nA. lakes\nB. car engines\nC. sunflowers\nD. people",
+    "output": "The correct answer is C.",
+    "dataset": "openbookqa"
+  },
+  {
+    "instruction": "Answer this open-book question by reasoning step by step, then provide the correct answer.",
+    "input": "A common household item that may be a ferrous metal is\nA. pans\nB. make up\nC. books\nD. towels",
+    "output": "The correct answer is A.",
+    "dataset": "openbookqa"
+  }
+]

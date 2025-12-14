@@ -1,0 +1,422 @@
+[
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Edward spent $ 17. Then he received $ 10 from his friend. Now he has $ 7.\nHow much did Edward have before he spent his money?",
+    "output": "Reasoning: ( ( 17.0 - 10.0 ) + 7.0 )\nFinal Answer: 14",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "A grocery store had 57 bottles of regular soda, 26 bottles of diet soda and 27 bottles of lite soda.\nHow many bottles did they have total?",
+    "output": "Reasoning: ( ( 57.0 + 26.0 ) + 27.0 )\nFinal Answer: 110",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Faye had 31 packs of pencils each one having 6 pencils. She was placing her pencils into rows with 19 pencils in each row.\nHow many pencils does she have?",
+    "output": "Reasoning: ( 31.0 * 6.0 )\nFinal Answer: 186",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jake has 18 fewer peaches than Steven who has 13 more peaches than Jill. Steven has 19 peaches.\nHow many peaches does Jill have?",
+    "output": "Reasoning: ( 19.0 - 13.0 )\nFinal Answer: 6",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in total\nHow many cookies does each bag have?",
+    "output": "Reasoning: ( 52.0 / 26.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Dave had 24 apps and 9 files on his phone. After deleting some apps and files he had 5 files and 12 apps left.\nHow many more apps than files does he have left on the phone?",
+    "output": "Reasoning: ( 12.0 - 5.0 )\nFinal Answer: 7",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Mary is baking a cake. The recipe calls for 12 cups of flour 14 cups of sugar and 7 cups of salt. She already put in 2 cups of flour.\nHow many more cups of flour than cups of salt does she need to add now?",
+    "output": "Reasoning: ( ( 12.0 - 2.0 ) - 7.0 )\nFinal Answer: 3",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars.\nHow much money did Fred earn over the weekend?",
+    "output": "Reasoning: ( 40.0 - 19.0 )\nFinal Answer: 21",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money.\nHow much did each candy bar cost?",
+    "output": "Reasoning: ( 4.0 / 2.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Faye was placing 12 pencils equally into 3 rows.\nHow many pencils did she place in each row?",
+    "output": "Reasoning: ( 12.0 / 3.0 )\nFinal Answer: 4",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "10 red peaches and some more green peaches are in the basket. If there are a total of 15 peaches in the basket\nHow many green peaches are in the basket?",
+    "output": "Reasoning: ( 15.0 - 10.0 )\nFinal Answer: 5",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "After Jessie started to go jogging everyday she lost 126 kilograms. She currently weighs 66 kilograms.\nHow much did she weigh before starting to jog?",
+    "output": "Reasoning: ( 66.0 + 126.0 )\nFinal Answer: 192",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "He then went to see the oranges being harvested. He found out that they harvested 54 sacks of oranges.\nHow many days did it take to harvest them if they harvested 18 sacks of oranges per day?",
+    "output": "Reasoning: ( 54.0 / 18.0 )\nFinal Answer: 3",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There were 8 people on the bus. At the next stop 12 more people got on the bus and 3 people got off.\nHow many people are there on the bus now?",
+    "output": "Reasoning: ( ( 8.0 + 12.0 ) - 3.0 )\nFinal Answer: 17",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "If you had 33 cookies and each bag has 11 cookies\nHow many bags of cookies do you have?",
+    "output": "Reasoning: ( 33.0 / 11.0 )\nFinal Answer: 3",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys\nHow many boys are there in that school?",
+    "output": "Reasoning: ( 697.0 - 228.0 )\nFinal Answer: 469",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Frank was reading through his favorite book. The book had 612 pages equally distributed over 24 chapters. It took Frank 6 days to finish the book.\nHow many pages did he read per day?",
+    "output": "Reasoning: ( 612.0 / 6.0 )\nFinal Answer: 102",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Katie had 57 new games and 39 old games. Her friends had 34 new games.\nHow many more games does Katie have than her friends?",
+    "output": "Reasoning: ( ( 57.0 + 39.0 ) - 34.0 )\nFinal Answer: 62",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks.\nHow many nails does John need for the house wall?",
+    "output": "Reasoning: ( 16.0 * 2.0 )\nFinal Answer: 32",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Frank was reading through his favorite book. The book had 3 chapters, each with the same number of pages. It has a total of 594 pages. It took Frank 607 days to finish the book.\nHow many pages are in each chapter?",
+    "output": "Reasoning: ( 594.0 / 3.0 )\nFinal Answer: 198",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paul got a box of 267 crayons for his birthday. During the school year he lost 231 crayons while he gave away 308 crayons to his friends.\nHow many more crayons did he give to his friends than those he lost?",
+    "output": "Reasoning: ( 308.0 - 231.0 )\nFinal Answer: 77",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Allan and Jake brought 3 balloons to the park. If Allan brought 2 balloons\nHow many balloons did Jake bring to the park?",
+    "output": "Reasoning: ( 3.0 - 2.0 )\nFinal Answer: 1",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paco had 40 cookies. He ate 5 cookies and gave 13 of them to his friend.\nHow many cookies did paco have left?",
+    "output": "Reasoning: ( ( 40.0 - 5.0 ) - 13.0 )\nFinal Answer: 22",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Baker made 170 cakes. He sold 78 of them and bought 31 new cakes.\nHow many more cakes did baker sell than those he bought?",
+    "output": "Reasoning: ( 78.0 - 31.0 )\nFinal Answer: 47",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "In a school there are 308 girls and 318 boys. There are also 36 teachers\nHow many pupils are there in that school?",
+    "output": "Reasoning: ( 308.0 + 318.0 )\nFinal Answer: 626",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "For 19 weeks of harvest Lewis earns a total of $ 133.\nHow much money does he earn each week?",
+    "output": "Reasoning: ( 133.0 / 19.0 )\nFinal Answer: 7",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Rachel had to complete 9 pages of math homework, 11 pages of reading homework and 29 more pages of biology homework.\nHow many pages of math and reading homework did she have to complete?",
+    "output": "Reasoning: ( 9.0 + 11.0 )\nFinal Answer: 20",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park.\nHow many more balloons did Jake have than Allan in the park?",
+    "output": "Reasoning: ( ( 3.0 + 4.0 ) - 6.0 )\nFinal Answer: 1",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "They decided to hold the party in their backyard. They have 10 sets of tables and each set has 6 chairs. If there are 11 people sitting on chairs\nHow many chairs are left unoccupied?",
+    "output": "Reasoning: ( ( 10.0 * 6.0 ) - 11.0 )\nFinal Answer: 49",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Zachary did 19 push-ups in gym class today. David did 39 more push-ups than Zachary. John did 13 push-ups less than david.\nHow many push-ups did David do?",
+    "output": "Reasoning: ( 19.0 + 39.0 )\nFinal Answer: 58",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There are 10 different books and 6 different movies in the ' crazy silly school ' series. If you read 14 of the movies and watched 19 of the books\nHow many more books than movies have you read?",
+    "output": "Reasoning: ( 19.0 - 14.0 )\nFinal Answer: 5",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches.\nHow many red peaches are in the baskets altogether?",
+    "output": "Reasoning: ( 16.0 * 6.0 )\nFinal Answer: 96",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paco had 97 salty cookies and 34 sweet cookies. He ate 15 sweet cookies and 56 salty cookies.\nHow many sweet cookies did Paco have left?",
+    "output": "Reasoning: ( 34.0 - 15.0 )\nFinal Answer: 19",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There are some bananas in Philip's banana collection. If the bananas are organized into 140 groups of size 187\nHow many bananas does he have in his collection?",
+    "output": "Reasoning: ( 140.0 * 187.0 )\nFinal Answer: 26180",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Dave had some apps on his phone. After deleting 18 of them he had 5 left.\nHow many apps did he have on his phone at the start?",
+    "output": "Reasoning: ( 18.0 + 5.0 )\nFinal Answer: 23",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Kelly has 46 nintendo games and 132 sony games.\nHow many sony games does she need to give away so that she will have 31 sony games left?",
+    "output": "Reasoning: ( 132.0 - 31.0 )\nFinal Answer: 101",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday.\nHow many more kids did she play with on monday than on tuesday?",
+    "output": "Reasoning: ( 6.0 - 5.0 )\nFinal Answer: 1",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Rachel picked 7 ripe apples from her tree. Now the tree has 5 apples still on it. If 3 of those are ripe and the rest are unripe\nHow many unripe apples does the tree have now?",
+    "output": "Reasoning: ( 5.0 - 3.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jake has 3 fewer peaches and 4 more apples than Steven. Steven has 19 apples and 15 peaches.\nHow many more apples than peaches does Steven have?",
+    "output": "Reasoning: ( 19.0 - 15.0 )\nFinal Answer: 4",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Steven has 18 peaches. Jake has 12 fewer peaches than Steven who has 8 more peaches than Jill.\nHow many peaches does Jill have?",
+    "output": "Reasoning: ( 18.0 - 8.0 )\nFinal Answer: 10",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy\nHow many bags would he have?",
+    "output": "Reasoning: ( 22.0 / 11.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "At the zoo, a cage had 93 snakes and 97 alligators. If 40 alligators were hiding\nHow many alligators were not hiding?",
+    "output": "Reasoning: ( 97.0 - 40.0 )\nFinal Answer: 57",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today.\nHow many did he have left after yesterday's picking?",
+    "output": "Reasoning: ( 160.0 - 56.0 )\nFinal Answer: 104",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jesse's room is 7 feet wide. If she needs a carpet of size 14 square feet\nWhat is the length of her room?",
+    "output": "Reasoning: ( 14.0 / 7.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jesse's room is 19 feet wide and 20 feet long.\nHow much longer is her room than it is wide?",
+    "output": "Reasoning: ( 20.0 - 19.0 )\nFinal Answer: 1",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Bryan took a look at his books as well. Each bookshelf contains 2 books. If he has a total of 38 books\nHow many bookshelves does he have?",
+    "output": "Reasoning: ( 38.0 / 2.0 )\nFinal Answer: 19",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp.\nHow many kids are in Lawrence county?",
+    "output": "Reasoning: ( 893835.0 + 644997.0 )\nFinal Answer: 1538832",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "The school is planning a field trip. The school has 17 classrooms. There are 46 school buses and a total of 92 students in the school. If all buses are full\nHow many seats are in each bus?",
+    "output": "Reasoning: ( 92.0 / 46.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "13 campers went rowing and 59 campers went hiking in the morning. 21 campers went rowing in the afternoon.\nHow many campers went rowing in all?",
+    "output": "Reasoning: ( 13.0 + 21.0 )\nFinal Answer: 34",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.\nHow many more storks than birds are sitting on the fence?",
+    "output": "Reasoning: ( 6.0 - ( 3.0 + 2.0 ) )\nFinal Answer: 1",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "A mailman gives 2 junk mails to each house in a block. If the mailman has to give 14 pieces of junk mail to each block.\nHow many houses are there in a block?",
+    "output": "Reasoning: ( 14.0 / 2.0 )\nFinal Answer: 7",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' series\nHow many more do you still have to read?",
+    "output": "Reasoning: ( 14.0 - 8.0 )\nFinal Answer: 6",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus.\nHow many more children got on the bus than those that got off?",
+    "output": "Reasoning: ( 14.0 - 5.0 )\nFinal Answer: 9",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Baker made 133 cakes. If he sold 51 of them\nHow many more cakes did baker make than those he sold?",
+    "output": "Reasoning: ( 133.0 - 51.0 )\nFinal Answer: 82",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Matthew had 29 crackers and 30 cakes. If Matthew gave equal numbers of crackers and cakes to his 2 friends\nHow many cakes did each person eat?",
+    "output": "Reasoning: ( 30.0 / 2.0 )\nFinal Answer: 15",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches.\nHow many green peaches are in the baskets altogether?",
+    "output": "Reasoning: ( 2.0 * 7.0 )\nFinal Answer: 14",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase.\nHow many more orchids than roses are there in the vase now?",
+    "output": "Reasoning: ( 20.0 - 11.0 )\nFinal Answer: 9",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them.\nHow many apples did Rachel pick in all?",
+    "output": "Reasoning: ( 4.0 * 7.0 )\nFinal Answer: 28",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "After a typhoon, 2 trees in Haley's backyard died. If she had grown 12 trees initially\nHow many trees does she have left?",
+    "output": "Reasoning: ( 12.0 - 2.0 )\nFinal Answer: 10",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paul got a box of some crayons for his birthday. By the end of the school year he only had 291 crayons left since he had either lost or given away 315 of them.\nHow many crayons did he get for his birthday?",
+    "output": "Reasoning: ( 315.0 + 291.0 )\nFinal Answer: 606",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 36 inches. The frog jumped 17 inches farther than the grasshopper and the mouse jumped 15 inches farther than the frog.\nHow far did the frog jump?",
+    "output": "Reasoning: ( 36.0 + 17.0 )\nFinal Answer: 53",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "For the walls of the house he would use 8 large planks of wood. If each plank of wood needs 74 pieces of nails to be secured\nHow many planks does John need for the house wall?",
+    "output": "Reasoning: 8.0\nFinal Answer: 8",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons.\nHow many more crayons did he give to his friends than those he lost?",
+    "output": "Reasoning: ( 571.0 - 161.0 )\nFinal Answer: 410",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening.\nHow many more emails did Jack receive in the morning than in the evening?",
+    "output": "Reasoning: ( 9.0 - 7.0 )\nFinal Answer: 2",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Jerry had 5 action figures and 9 books on a shelf in his room. Later he added 7 more action figures to the shelf.\nHow many more action figures than books were on his shelf?",
+    "output": "Reasoning: ( ( 5.0 + 7.0 ) - 9.0 )\nFinal Answer: 3",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes.\nHow many cakes does baker still have?",
+    "output": "Reasoning: ( ( 121.0 - 105.0 ) + 170.0 )\nFinal Answer: 186",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "There were 13 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 12 roses. There are now 21 roses in the vase.\nHow many roses are left in the garden?",
+    "output": "Reasoning: ( 12.0 - ( 21.0 - 13.0 ) )\nFinal Answer: 4",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "The Ferris wheel in paradise park has 18 seats. Each seat can hold 15 people. If 10 seats are broken\nHow many people can ride the Ferris wheel at the same time?",
+    "output": "Reasoning: ( ( 18.0 - 10.0 ) * 15.0 )\nFinal Answer: 120",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Brenda's mother made cookies for 14. If each of them had 30 cookies\nHow many cookies did she prepare?",
+    "output": "Reasoning: ( 14.0 * 30.0 )\nFinal Answer: 420",
+    "dataset": "svamp"
+  },
+  {
+    "instruction": "Reason step by step and provide the final answer.",
+    "input": "Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds\nHow many seeds did they plant?",
+    "output": "Reasoning: ( 10.0 * 45.0 )\nFinal Answer: 450",
+    "dataset": "svamp"
+  }
+]
